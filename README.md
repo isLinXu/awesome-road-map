@@ -57,7 +57,26 @@ https://www.nvidia.com/en-us/training/online/
 - https://www.kaggle.com/general/217218
 - https://www.kaggle.com/learn
 
-
+| Num  |                                                              |                   Course                    |                             Desc                             | Other |
+| :--: | ------------------------------------------------------------ | :-----------------------------------------: | :----------------------------------------------------------: | :---: |
+|  1   | ![](./docs/svg/intro-to-programming.svg)                     |            Intro to Programming             | Get starteddd with Python,if you have no coding experience.  |       |
+|  2   | ![](./docs/svg/python.svg)                                   |                   Python                    |     Learn the most important language for data science.      |       |
+|  3   |                                                              |         Intro to Machine  Learning          | Learn the coree ideaas in machine learrning,and build your first models. |       |
+|  4   | ![](./docs/svg/pandas.svg)                                   |                   Pandas                    | Solve short hands-on challenges to perfect your data manipulation skills. |       |
+|  5   | ![](./docs/svg/intermediate-machine-learning.svg)            |        Intermediate Machine Learning        | Handle missing values,non-numerrric values,data leakage,and more. |       |
+|  6   | ![](./docs/svg/data-visualization.svg)                       |             Data Visualization              | Make great data visualizations.A great way to see the power of coding! |       |
+|  7   | ![](./docs/svg/feature-engineering.svg)                      |             Feature Engineering             | Better features make better models. Discover how to get the most out of your data. |       |
+|  8   | ![](./docs/svg/intro-to-sql.svg)                             |                Intro to SQL                 | Learn SQL for working with databases, using Google BigQuery. |       |
+|  9   | ![](./docs/svg/advanced-sql.svg)                             |                Advanced SQL                 |           Take your SQL skills to the next level.            |       |
+|  10  | ![](./docs/svg/intro-to-deep-learning.svg)                   |           Intro to Deep Learning            | Use TensorFlow and Keras to build and train neural networks for structured data. |       |
+|  11  | ![](./docs/svg/computer-vision.svg)                          |              Computerr Vision               | Build convolutional neural networks with TensorFlow and Keras. |       |
+|  12  | ![](./docs/svg/time-series.svg)                              |                 Time Series                 |   Apply machine learning to real-world forecasting tasks.    |       |
+|  13  | ![](./docs/svg/data-cleaning.svg)                            |                Data Cleaning                | Master efficient workflows for cleaning real-world messy data. |       |
+|  14  | ![](./docs/svg/intro-to-ai-ethics.svg)                       |            Intro to AI Ethics..             | Explore practical tools to guide the moral design of AI systems. |       |
+|  15  | ![](./docs/svg/geospatial-analysis.svg)                      |             Geospatial Analysis             | Create interactive maps, and discover patterns in geospatial data. |       |
+|  16  | ![](./docs/svg/machine-learning-explainability.svg)          |       Machine Learning Explainabilty        |    Extract human-understandable insights from any model.     |       |
+|  17  | ![](./docs/svg/intro-to-game-ai-and-reinforcement-learning.svg) | Intro to Game AI and Reinforcement Learning | Build your own video game bots, using classic and cutting-edge algorithms. |       |
+|      |                                                              |                                             |                                                              |       |
 
 
 
@@ -65,13 +84,13 @@ https://www.nvidia.com/en-us/training/online/
 
 - https://ilearningx.huawei.com/
 
-| 序号 |                             课程                             | 说明                                                         | 其他 |
-| :--: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|  1   | [**Python编程基础**](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000531/about) | 本课为 HCIA-AI 华为认证人工智能工程师在线课程的前置课程。课程主要内容为Python编程基础。课程以实验为主，通过对Python中基础语法、数据结构、函数与对象和IO操作等帮助学员快速构建Python编程的能力。 |      |
-|  2   | [**AI 数学基础**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000535+microcourse/aboutv) | 本课为 HCIA-AI 华为认证人工智能工程师在线课程的前置课程。课程主要内容为AI相关的数学基础，从理论&实验两个方面，详细介绍了线性代数、概率论、最优化问题的基础知识。 |      |
-|  3   | [**机器学习概览**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000554+microcourse/about?blockID=d8166938977c4bc8b8ad0b1a592fb80a) | 本课程是 HCIA-AI V3.0 华为认证人工智能工程师在线课程的机器学习部分内容。通过系统全面的理论介绍、实验演示、案例分析，详细讲解了人工智能技术当前最火热的研究方向——机器学习算法的知识。 |      |
-|  4   | [HCIA-AI V3.0 华为认证人工智能工程师在线课程](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000530/about) |                                                              |      |
-|  5   |                                                              |                                                              |      |
+| 序号 |      |                             课程                             | 说明                                                         | 其他 |
+| :--: | ---- | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  1   |      | [**Python编程基础**](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000531/about) | 本课为 HCIA-AI 华为认证人工智能工程师在线课程的前置课程。课程主要内容为Python编程基础。课程以实验为主，通过对Python中基础语法、数据结构、函数与对象和IO操作等帮助学员快速构建Python编程的能力。 |      |
+|  2   |      | [**AI 数学基础**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000535+microcourse/aboutv) | 本课为 HCIA-AI 华为认证人工智能工程师在线课程的前置课程。课程主要内容为AI相关的数学基础，从理论&实验两个方面，详细介绍了线性代数、概率论、最优化问题的基础知识。 |      |
+|  3   |      | [**机器学习概览**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000554+microcourse/about?blockID=d8166938977c4bc8b8ad0b1a592fb80a) | 本课程是 HCIA-AI V3.0 华为认证人工智能工程师在线课程的机器学习部分内容。通过系统全面的理论介绍、实验演示、案例分析，详细讲解了人工智能技术当前最火热的研究方向——机器学习算法的知识。 |      |
+|  4   |      | [HCIA-AI V3.0 华为认证人工智能工程师在线课程](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000530/about) |                                                              |      |
+|  5   |      |                                                              |                                                              |      |
 
 ## TianChi
 
