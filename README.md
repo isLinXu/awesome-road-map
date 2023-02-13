@@ -201,14 +201,32 @@ https://www.nvidia.com/en-us/training/online/
 
 ### 3、计算机视觉
 
-| 序号 |      | 阶段 | 课程 | 说明 | 其他 |
-| :--: | :--: | :--: | :--: | ---- | ---- |
-|  1   |      |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  4   |      |      |      |      |      |
-|  5   |      |      |      |      |      |
-|  6   |      |      |      |      |      |
+| 序号 |      | 阶段 |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :--: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      |      | [神经网络与深度学习](https://aistudio.baidu.com/aistudio/course/introduce/25876) |      |      |
+|  2   |      |      | [从零开始学视觉Transformer](https://aistudio.baidu.com/aistudio/course/introduce/25102) |      |      |
+|  3   |      |      | [Transformer原理和实践系列课](https://aistudio.baidu.com/aistudio/course/introduce/24683) |      |      |
+|  4   |      |      | [目标检测之YOLO系列](https://aistudio.baidu.com/aistudio/course/introduce/27345) |      |      |
+|  5   |      |      | [飞桨领航团-AI达人养成营](https://aistudio.baidu.com/aistudio/course/introduce/25038) |      |      |
+|  6   |      |      | [飞桨领航团-实战速成营](https://aistudio.baidu.com/aistudio/course/introduce/16606) |      |      |
+|  7   |      |      | [飞桨领航团-AI达人特训营](https://aistudio.baidu.com/aistudio/course/introduce/26207) |      |      |
+|  8   |      |      | [AI快车道-**PaddleClas**系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/24519) |      |      |
+|  9   |      |      | [AI快车道-**PaddleDetection**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/23670) |      |      |
+|  10  |      |      | [AI快车道-**PaddleSeg**系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/24590) |      |      |
+|  11  |      |      | [AI快车道-**PaddleOCR**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
+|      |      |      | [AI快车道2020-**PaddleOCR**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
 
 ### 4、自然语言处理
 
