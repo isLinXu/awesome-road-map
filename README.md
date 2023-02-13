@@ -144,7 +144,7 @@ https://www.nvidia.com/en-us/training/online/
 |  13  |          ![](./docs/svg/intro-to-deep-learning.svg)          |  AI新手  | [**深度学习**-原理与实践](https://tianchi.aliyun.com/course/279?spm=5176.21206777.J_3641663050.13.698717c9js5gSD) | 告诉你深度学习的历史和应用，带你实践深度学习算法             |      |
 |  14  |                  ![](./docs/svg/pandas.svg)                  |  AI新手  | [**数据挖掘**-入门与实践](https://tianchi.aliyun.com/course/314?spm=5176.21206777.J_3641663050.14.698717c9js5gSD) | 学、练、赛模式带你轻松入门数据挖掘                           |      |
 |  15  |             ![](./docs/svg/computer-vision.svg)              |  AI新手  | [**计算机视觉**-入门与实践](https://tianchi.aliyun.com/course/315?spm=5176.21206777.J_3641663050.15.698717c9js5gSD) | 学、练、赛模式带你轻松入门计算机视觉                         |      |
-|  16  |                              s                               |  AI新手  | [**自然语言处理**-入门与实践](https://tianchi.aliyun.com/course/316?spm=5176.21206777.J_3641663050.16.698717c9js5gSD) | 学、练、赛模式带你轻松入门自然语言处理                       |      |
+|  16  |                                                              |  AI新手  | [**自然语言处理**-入门与实践](https://tianchi.aliyun.com/course/316?spm=5176.21206777.J_3641663050.16.698717c9js5gSD) | 学、练、赛模式带你轻松入门自然语言处理                       |      |
 |  17  |                 ![](./docs/svg/comments.svg)                 |  AI新手  | [**金融风控**-入门与实践](https://tianchi.aliyun.com/course/317?spm=5176.21206777.J_3641663050.17.698717c9js5gSD) | 学、练、赛模式带你轻松入门金融风控                           |      |
 |      |                                                              |          |                                                              |                                                              |      |
 |  18  |                  ![](./docs/svg/pandas.svg)                  | AI工程师 | [**数据挖掘类**-比赛](https://tianchi.aliyun.com/course/322?spm=5176.21206777.J_3641663050.18.698717c9js5gSD) | 汇总了天池平台**数据挖掘类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
@@ -170,8 +170,20 @@ https://www.nvidia.com/en-us/training/online/
 
 ---
 
-
-
+| 序号 |                            |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  1   | ![](./docs/svg/python.svg) | 新手入门 | [Python小白从入门到精通](https://aistudio.baidu.com/aistudio/course/introduce/25763) | 本课程主要面向编程零基础，希望掌握Python编程、希望掌握AI思想、数据智能思想的学习者。 |      |
+|  2   | ![](./docs/svg/python.svg) | 新手入门 | [Python小白逆袭大神](https://aistudio.baidu.com/aistudio/course/introduce/1224) | 由中科院一线精英教师团队为大家实力讲解从Python进入人工智能领域，让Python小白快速逆袭AI大神！。 |      |
+|  3   | ![](./docs/svg/python.svg) | 新手入门 | [百度飞桨领航团-零基础Python速成营](https://aistudio.baidu.com/aistudio/course/introduce/7073) | 全覆盖Python知识点、配合项目实战、全程社群答疑，带你吃透Python语言、学透深度学习前置知识点 |      |
+|  4   | ![](./docs/svg/pandas.svg) | 新手入门 | [数据准备和特征工程](https://aistudio.baidu.com/aistudio/course/introduce/1337) | 本课程是与《数据准备和特征工程》一书配套的公开课。学习者可以参考书上的详细说明，并配合本课程的视频及代码进行学习。 |      |
+|  5   | ![](./docs/svg/pandas.svg) | 新手入门 | [Python数据分析-案例教程](https://aistudio.baidu.com/aistudio/course/introduce/25741) | 本书从python基础到扩展库，从编程到数据分析，再到机器学习和深度学习，循序渐进，逐步推进知识点的实际应用。首先简要介绍数据分析相关概念和Python基础知识，然后按照数据分析的主要步骤，重点介绍数据获取、数据预处理、数据分析、数据可视化以及机器学习过程相关的扩展库，包括beutifulsoup4、numpy、matplotlib、pandas、pyecharts和sklearn等。 |      |
+|      |                            |          |                                                              |                                                              |      |
+|      |                            | 初级课程 | [李宏毅课程-机器学习](https://aistudio.baidu.com/aistudio/education/group/info/1978) | 由台湾大学李宏毅教授亲授的全网最新机器学习课程，手把手带你敲开人工智能世界的大门，探索AI技术的边界！ |      |
+|      |                            | 初级课程 | [人工智能导论：案例与实践](https://aistudio.baidu.com/aistudio/education/group/info/25224) | 本课程是浙江大学吴飞老师的著作《人工智能导论：模型与算法》的配套实验课程，由浙江大学计算机学院朱强老师和飞桨教材编写组共同撰写，同时也邀请了头部高校人工智能领域专家和博士生参与课程的撰写和审校。 |      |
+|      |                            | 初级课程 | [从零入门数据竞赛](https://aistudio.baidu.com/aistudio/education/group/info/26319) | 本课程主要面向入门数据竞赛的同学，并通过课程掌握数据竞赛的基本技巧与能力，不断取得数据竞赛的成绩。 |      |
+|      |                            | 初级课程 |                     30分钟搞懂AI数据处理                     |                                                              |      |
+|      |                            | 初级课程 |                     飞桨领航团实战速成营                     |                                                              |      |
+|      |                            | 初级课程 |                飞桨领航团图像分类零基础训练营                |                                                              |      |
 
 
 
