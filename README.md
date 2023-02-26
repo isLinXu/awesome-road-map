@@ -261,6 +261,7 @@ https://www.nvidia.com/en-us/training/online/
 ----
 
 - https://tianchi.aliyun.com/course
+- https://developer.aliyun.com/learning/course/
 
 ### 1、AI小白
 
@@ -328,6 +329,7 @@ https://www.nvidia.com/en-us/training/online/
 
 - https://cloud.tencent.com/edu/learning/courses?cid=10182
 - https://cloud.tencent.com/edu/learning/courses
+- https://cloud.tencent.com/edu/paths/series/CODING%20DevOps
 
 ### 1、数学及AI基础
 
@@ -385,7 +387,9 @@ https://www.nvidia.com/en-us/training/online/
 |  4   |      | 深度学习 | [英特尔OpenVINO工具包新特性介绍](https://cloud.tencent.com/edu/learning/course-2731) |      |      |
 |      |      |          |                                                              |      |      |
 
+### 4、应用实战
 
+- https://cloud.tencent.com/edu/learning/courses?p=1&cid=10169
 
 # OpenL
 
