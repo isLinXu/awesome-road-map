@@ -50,9 +50,9 @@ awesome road map
 
 - https://developers.google.com/machine-learning/crash-course?hl=zh-cn
 
+- https://www.tensorflow.org/resources/learn-ml?hl=zh-cn
 
-
-
+  
 
 ## Apple
 
