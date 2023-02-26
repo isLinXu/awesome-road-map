@@ -40,7 +40,7 @@ awesome road map
 
 - https://www.intel.cn/content/www/cn/zh/developer/topic-technology/artificial-intelligence/overview.html
 
-- ## https://github.com/dohahelmy/resources-intel-edge-ai-scholarship-2020
+- https://github.com/dohahelmy/resources-intel-edge-ai-scholarship-2020
 
 ## Google
 
@@ -87,7 +87,7 @@ https://www.nvidia.com/en-us/training/online/
 
 | Num  |                                                              |                            Course                            |                             Desc                             | Other |
 | :--: | ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :---: |
-|  1   | ![](./docs/svg/intro-to-programming.svg)                     | [Intro to Programm](https://www.kaggle.com/learn/intro-to-programming)ing | Get starteddd with Python,if you have no coding experience.  |       |
+|  1   | ![](./docs/svg/intro-to-programming.svg)                     | [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming) | Get starteddd with Python,if you have no coding experience.  |       |
 |  2   | ![](./docs/svg/python.svg)                                   |        [Python](https://www.kaggle.com/learn/python)         |     Learn the most important language for data science.      |       |
 |  3   | ![](./docs/svg/intro-to-machine-learning.svg)                | [Intro to Machine  Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Learn the coree ideaas in machine learrning,and build your firsst models. |       |
 |  4   | ![](./docs/svg/pandas.svg)                                   |        [Pandas](https://www.kaggle.com/learn/pandas)         | Solve short hands-on challenges to perfect your data manipulation skills. |       |
@@ -124,53 +124,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## TianChi
-
-----
-
-- https://tianchi.aliyun.com/course
-
-| 序号 |                                                              |   阶段   |                             课程                             | 说明                                                         | 其他 |
-| :--: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|  1   |           ![](./docs/svg/intro-to-programming.svg)           |  AI小白  | [**天池**-入门与实践](https://tianchi.aliyun.com/course/288?spm=5176.21206777.J_3641663050.1.698717c9js5gSD) | 天池新手必备：轻松入门天池实验室、天池docker提交             |      |
-|  2   |                  ![](./docs/svg/python.svg)                  |  AI小白  | [**Python**-入门与实践](https://tianchi.aliyun.com/course/308?spm=5176.21206777.J_3641663050.2.698717c9js5gSD) | 3大任务，带你开启编程人生                                    |      |
-|  3   |           ![](./docs/svg/intro-to-programming.svg)           |  AI小白  | [**在线编程**-入门与实践](https://tianchi.aliyun.com/course/932?spm=5176.21206777.J_3641663050.3.698717c9js5gSD) | Leetcode小白成长记：从小白到熟练刷题的必经之路               |      |
-|  4   |               ![](./docs/svg/intro-to-sql.svg)               |  AI小白  | [**SQL**-入门与实践](https://tianchi.aliyun.com/course/309?spm=5176.21206777.J_3641663050.4.698717c9js5gSD) | 4大任务，掌握数据分析技能                                    |      |
-|  5   |        ![](./docs/svg/intro-to-machine-learning.svg)         |  AI小白  | [**机器学习**-入门与实践](https://tianchi.aliyun.com/course/310?spm=5176.21206777.J_3641663050.5.698717c9js5gSD) | 3个基础算法结合有趣场景，实现机器学习初体验                  |      |
-|  6   |          ![](./docs/svg/intro-to-deep-learning.svg)          |  AI小白  | [**深度学习**-入门与实践](https://tianchi.aliyun.com/course/311?spm=5176.21206777.J_3641663050.6.698717c9js5gSD) | 3大任务，搞定CNN人脸识别                                     |      |
-|  7   | ![](./docs/svg/intro-to-game-ai-and-reinforcement-learning.svg) |  AI小白  | [**强化学习**-入门与实践](https://tianchi.aliyun.com/course/313?spm=5176.21206777.J_3641663050.7.698717c9js5gSD) | 4大任务，成为强化学习通关达人                                |      |
-|  8   |            ![](./docs/svg/intro-to-ai-ethics.svg)            |  AI小白  | [**趣味视觉AI应用**-入门与实战](https://tianchi.aliyun.com/course/336?spm=5176.21206777.J_3641663050.8.698717c9js5gSD) | 4位达摩产品、算法专家带你入门视觉AI技术                      |      |
-|      |                                                              |          |                                                              |                                                              |      |
-|  9   |                  ![](./docs/svg/python.svg)                  |  AI新手  | [**Python语法**](https://tianchi.aliyun.com/course/260?spm=5176.21206777.J_3641663050.9.698717c9js5gSD) | 用notebook、交互式方法，Python语法学习+实践一次搞定          |      |
-|  10  |                   ![](./docs/svg/data.svg)                   |  AI新手  | [**AI数学基础**](https://tianchi.aliyun.com/course/277?spm=5176.21206777.J_3641663050.10.698717c9js5gSD) | 一次点出人工智能需要的线性代数、微积分、概率论等数学知识     |      |
-|  11  |                                                              |  AI新手  | [**Pytorch实战**](https://tianchi.aliyun.com/course/337?spm=5176.21206777.J_3641663050.11.698717c9js5gSD) | 边看边实践，一站式搞定Pytorch                                |      |
-|  12  |        ![](./docs/svg/intro-to-machine-learning.svg)         |  AI新手  | [**机器学习**-原理与实践](https://tianchi.aliyun.com/course/278?spm=5176.21206777.J_3641663050.12.698717c9js5gSD) | 告诉你什么是机器学习，如何玩转机器学习                       |      |
-|  13  |          ![](./docs/svg/intro-to-deep-learning.svg)          |  AI新手  | [**深度学习**-原理与实践](https://tianchi.aliyun.com/course/279?spm=5176.21206777.J_3641663050.13.698717c9js5gSD) | 告诉你深度学习的历史和应用，带你实践深度学习算法             |      |
-|  14  |                  ![](./docs/svg/pandas.svg)                  |  AI新手  | [**数据挖掘**-入门与实践](https://tianchi.aliyun.com/course/314?spm=5176.21206777.J_3641663050.14.698717c9js5gSD) | 学、练、赛模式带你轻松入门数据挖掘                           |      |
-|  15  |             ![](./docs/svg/computer-vision.svg)              |  AI新手  | [**计算机视觉**-入门与实践](https://tianchi.aliyun.com/course/315?spm=5176.21206777.J_3641663050.15.698717c9js5gSD) | 学、练、赛模式带你轻松入门计算机视觉                         |      |
-|  16  |                                                              |  AI新手  | [**自然语言处理**-入门与实践](https://tianchi.aliyun.com/course/316?spm=5176.21206777.J_3641663050.16.698717c9js5gSD) | 学、练、赛模式带你轻松入门自然语言处理                       |      |
-|  17  |                 ![](./docs/svg/comments.svg)                 |  AI新手  | [**金融风控**-入门与实践](https://tianchi.aliyun.com/course/317?spm=5176.21206777.J_3641663050.17.698717c9js5gSD) | 学、练、赛模式带你轻松入门金融风控                           |      |
-|      |                                                              |          |                                                              |                                                              |      |
-|  18  |                  ![](./docs/svg/pandas.svg)                  | AI工程师 | [**数据挖掘类**-比赛](https://tianchi.aliyun.com/course/322?spm=5176.21206777.J_3641663050.18.698717c9js5gSD) | 汇总了天池平台**数据挖掘类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  19  |                                                              | AI工程师 | [**自然语言处理类**-比赛](https://tianchi.aliyun.com/course/318?spm=5176.21206777.J_3641663050.19.698717c9js5gSD) | 汇总了天池平台**自然语言类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  20  |             ![](./docs/svg/computer-vision.svg)              | AI工程师 | [**计算机视觉类**-比赛](https://tianchi.aliyun.com/course/319?spm=5176.21206777.J_3641663050.20.698717c9js5gSD) | 汇总了天池平台**计算机视觉类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  21  |                                                              | AI工程师 | [**程序设计类**-比赛](https://tianchi.aliyun.com/course/320?spm=5176.21206777.J_3641663050.21.698717c9js5gSD) | 汇总了天池平台**程序设计类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  22  |            ![](./docs/svg/intro-to-ai-ethics.svg)            | AI工程师 | [**创新应用类**-比赛](https://tianchi.aliyun.com/course/321?spm=5176.21206777.J_3641663050.22.698717c9js5gSD) | 汇总了天池平台**创新应用类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  23  |                                                              |          |                                                              |                                                              |      |
-|  24  |                                                              | AI科学家 | [AAAI2021](https://tianchi.aliyun.com/course/326?spm=5176.21206777.J_3641663050.23.698717c9js5gSD) |                                                              |      |
-|  25  |                                                              | AI科学家 | [CVPR2020](https://tianchi.aliyun.com/course/307?spm=5176.21206777.J_3641663050.24.698717c9js5gSD) |                                                              |      |
-|  26  |                                                              | AI科学家 | [ACL2020](https://tianchi.aliyun.com/course/306?spm=5176.21206777.J_3641663050.25.698717c9js5gSD) |                                                              |      |
-|  27  |                                                              | AI科学家 | [VLDB2020](https://tianchi.aliyun.com/course/305?spm=5176.21206777.J_3641663050.26.698717c9js5gSD) |                                                              |      |
-|  28  |                                                              | AI科学家 | [EMNLP2020](https://tianchi.aliyun.com/course/304?spm=5176.21206777.J_3641663050.27.698717c9js5gSD) |                                                              |      |
-|  29  |                                                              | AI科学家 | [ECCV2020](https://tianchi.aliyun.com/course/303?spm=5176.21206777.J_3641663050.28.698717c9js5gSD) |                                                              |      |
-|  30  |                                                              | AI科学家 | [NeurlPS2020](https://tianchi.aliyun.com/course/297?spm=5176.21206777.J_3641663050.29.698717c9js5gSD) |                                                              |      |
-|      |                                                              |          |                                                              |                                                              |      |
-|      |                                                              |          |                                                              |                                                              |      |
-|      |                                                              |          |                                                              |                                                              |      |
-
-
-
-## PaddlePaddle
+## Baidu-PaddlePaddle
 
 ---
 
@@ -188,20 +142,20 @@ https://www.nvidia.com/en-us/training/online/
 
 ### 2、初级课程
 
-| 序号 |                            |   阶段   |                             课程                             | 说明                                                         | 其他 |
-| :--: | :------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-| 6 |                            | 初级课程 | [李宏毅课程-机器学习](https://aistudio.baidu.com/aistudio/education/group/info/1978) | 由台湾大学李宏毅教授亲授的全网最新机器学习课程，手把手带你敲开人工智能世界的大门，探索AI技术的边界！ |      |
-| 7 |                            | 初级课程 | [人工智能导论：案例与实践](https://aistudio.baidu.com/aistudio/education/group/info/25224) | 本课程是浙江大学吴飞老师的著作《人工智能导论：模型与算法》的配套实验课程，由浙江大学计算机学院朱强老师和飞桨教材编写组共同撰写，同时也邀请了头部高校人工智能领域专家和博士生参与课程的撰写和审校。 |      |
-| 8 |                            | 初级课程 | [从零入门数据竞赛](https://aistudio.baidu.com/aistudio/education/group/info/26319) | 本课程主要面向入门数据竞赛的同学，并通过课程掌握数据竞赛的基本技巧与能力，不断取得数据竞赛的成绩。 |      |
-| 9 |                            | 初级课程 | [30分钟搞懂AI数据处理](https://aistudio.baidu.com/aistudio/course/introduce/26682) | 工业相机镜头如何选择、样本采集需要注意什么、数据标注如何规范……30分钟带你搞懂AI数据处理！ |      |
-| 10 |                            | 初级课程 | [飞桨领航团实战速成营](https://aistudio.baidu.com/aistudio/course/introduce/16606) | 带你一周上手全流程实战产业级项目，可将项目写进简历！         |      |
-| 11 |                            | 初级课程 | [飞桨领航团图像分类零基础训练营](https://aistudio.baidu.com/aistudio/course/introduce/11939) | 课程内容完全覆盖图像分类知识点，用国际头部赛事signate柠檬图像分类题目做实例，全流程实战讲解，知识学透、实战用透、学会即用！ |      |
-|      |                            |          |                                                              |                                                              |      |
-| 12 |                            | 中级课程 | [李宏毅课程-机器学习进阶](https://aistudio.baidu.com/aistudio/education/group/info/1979) | 机器学习的下一步是什么？”宝可梦训练家”李宏毅为你揭秘机器学习前沿技术，玩转多元化应用场景。 |      |
-| 13 |                            | 中级课程 | [李宏毅课程-人类语言处理](https://aistudio.baidu.com/aistudio/course/introduce/2060) | 大热的自然语言处理就该这么学！台大教授李宏毅为你定制系统化学习课程，一步步带你掌握NLP技术。 |      |
-| 14 |                            | 中级课程 | [李宏毅课程-强化学习](https://aistudio.baidu.com/aistudio/course/introduce/2062) | AI机器人与人类的博弈总能擦出火花，赶快加入课程了解强化学习的奥秘，用人类的智慧探索新世纪。 |      |
-| 15 |                            | 中级课程 | [李宏毅课程-生成对抗网络](https://aistudio.baidu.com/aistudio/course/introduce/2061) | 想要学习热门的视频、图像特效技术，又苦于没有门路。别担心，在这里你将收获最好的生成对抗网络教程，抓紧撸起袖子”GAN”起来。 |      |
-|      |                            |          |                                                              |||
+| 序号 |      |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :--: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  6   |      | 初级课程 | [李宏毅课程-机器学习](https://aistudio.baidu.com/aistudio/education/group/info/1978) | 由台湾大学李宏毅教授亲授的全网最新机器学习课程，手把手带你敲开人工智能世界的大门，探索AI技术的边界！ |      |
+|  7   |      | 初级课程 | [人工智能导论：案例与实践](https://aistudio.baidu.com/aistudio/education/group/info/25224) | 本课程是浙江大学吴飞老师的著作《人工智能导论：模型与算法》的配套实验课程，由浙江大学计算机学院朱强老师和飞桨教材编写组共同撰写，同时也邀请了头部高校人工智能领域专家和博士生参与课程的撰写和审校。 |      |
+|  8   |      | 初级课程 | [从零入门数据竞赛](https://aistudio.baidu.com/aistudio/education/group/info/26319) | 本课程主要面向入门数据竞赛的同学，并通过课程掌握数据竞赛的基本技巧与能力，不断取得数据竞赛的成绩。 |      |
+|  9   |      | 初级课程 | [30分钟搞懂AI数据处理](https://aistudio.baidu.com/aistudio/course/introduce/26682) | 工业相机镜头如何选择、样本采集需要注意什么、数据标注如何规范……30分钟带你搞懂AI数据处理！ |      |
+|  10  |      | 初级课程 | [飞桨领航团实战速成营](https://aistudio.baidu.com/aistudio/course/introduce/16606) | 带你一周上手全流程实战产业级项目，可将项目写进简历！         |      |
+|  11  |      | 初级课程 | [飞桨领航团图像分类零基础训练营](https://aistudio.baidu.com/aistudio/course/introduce/11939) | 课程内容完全覆盖图像分类知识点，用国际头部赛事signate柠檬图像分类题目做实例，全流程实战讲解，知识学透、实战用透、学会即用！ |      |
+|      |      |          |                                                              |                                                              |      |
+|  12  |      | 中级课程 | [李宏毅课程-机器学习进阶](https://aistudio.baidu.com/aistudio/education/group/info/1979) | 机器学习的下一步是什么？”宝可梦训练家”李宏毅为你揭秘机器学习前沿技术，玩转多元化应用场景。 |      |
+|  13  |      | 中级课程 | [李宏毅课程-人类语言处理](https://aistudio.baidu.com/aistudio/course/introduce/2060) | 大热的自然语言处理就该这么学！台大教授李宏毅为你定制系统化学习课程，一步步带你掌握NLP技术。 |      |
+|  14  |      | 中级课程 | [李宏毅课程-强化学习](https://aistudio.baidu.com/aistudio/course/introduce/2062) | AI机器人与人类的博弈总能擦出火花，赶快加入课程了解强化学习的奥秘，用人类的智慧探索新世纪。 |      |
+|  15  |      | 中级课程 | [李宏毅课程-生成对抗网络](https://aistudio.baidu.com/aistudio/course/introduce/2061) | 想要学习热门的视频、图像特效技术，又苦于没有门路。别担心，在这里你将收获最好的生成对抗网络教程，抓紧撸起袖子”GAN”起来。 |      |
+|      |      |          |                                                              |                                                              |      |
 
 ### 3、计算机视觉
 
@@ -298,6 +252,141 @@ https://www.nvidia.com/en-us/training/online/
 |  5   |      |      |      |      |      |
 |  6   |      |      |      |      |      |
 
+
+
+
+
+## Alibaba-TianChi
+
+----
+
+- https://tianchi.aliyun.com/course
+
+### 1、AI小白
+
+| 序号 |                                                              |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  1   |           ![](./docs/svg/intro-to-programming.svg)           |  AI小白  | [**天池**-入门与实践](https://tianchi.aliyun.com/course/288?spm=5176.21206777.J_3641663050.1.698717c9js5gSD) | 天池新手必备：轻松入门天池实验室、天池docker提交             |      |
+|  2   |                  ![](./docs/svg/python.svg)                  |  AI小白  | [**Python**-入门与实践](https://tianchi.aliyun.com/course/308?spm=5176.21206777.J_3641663050.2.698717c9js5gSD) | 3大任务，带你开启编程人生                                    |      |
+|  3   |           ![](./docs/svg/intro-to-programming.svg)           |  AI小白  | [**在线编程**-入门与实践](https://tianchi.aliyun.com/course/932?spm=5176.21206777.J_3641663050.3.698717c9js5gSD) | Leetcode小白成长记：从小白到熟练刷题的必经之路               |      |
+|  4   |               ![](./docs/svg/intro-to-sql.svg)               |  AI小白  | [**SQL**-入门与实践](https://tianchi.aliyun.com/course/309?spm=5176.21206777.J_3641663050.4.698717c9js5gSD) | 4大任务，掌握数据分析技能                                    |      |
+|  5   |        ![](./docs/svg/intro-to-machine-learning.svg)         |  AI小白  | [**机器学习**-入门与实践](https://tianchi.aliyun.com/course/310?spm=5176.21206777.J_3641663050.5.698717c9js5gSD) | 3个基础算法结合有趣场景，实现机器学习初体验                  |      |
+|  6   |          ![](./docs/svg/intro-to-deep-learning.svg)          |  AI小白  | [**深度学习**-入门与实践](https://tianchi.aliyun.com/course/311?spm=5176.21206777.J_3641663050.6.698717c9js5gSD) | 3大任务，搞定CNN人脸识别                                     |      |
+|  7   | ![](./docs/svg/intro-to-game-ai-and-reinforcement-learning.svg) |  AI小白  | [**强化学习**-入门与实践](https://tianchi.aliyun.com/course/313?spm=5176.21206777.J_3641663050.7.698717c9js5gSD) | 4大任务，成为强化学习通关达人                                |      |
+|  8   |            ![](./docs/svg/intro-to-ai-ethics.svg)            |  AI小白  | [**趣味视觉AI应用**-入门与实战](https://tianchi.aliyun.com/course/336?spm=5176.21206777.J_3641663050.8.698717c9js5gSD) | 4位达摩产品、算法专家带你入门视觉AI技术                      |      |
+|      |                                                              |          |                                                              |                                                              |      |
+
+### 2、AI新手
+
+| 序号 |                                               |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :-------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  9   |          ![](./docs/svg/python.svg)           |  AI新手  | [**Python语法**](https://tianchi.aliyun.com/course/260?spm=5176.21206777.J_3641663050.9.698717c9js5gSD) | 用notebook、交互式方法，Python语法学习+实践一次搞定          |      |
+|  10  |           ![](./docs/svg/data.svg)            |  AI新手  | [**AI数学基础**](https://tianchi.aliyun.com/course/277?spm=5176.21206777.J_3641663050.10.698717c9js5gSD) | 一次点出人工智能需要的线性代数、微积分、概率论等数学知识     |      |
+|  11  |          ![](./docs/svg/python.svg)           |  AI新手  | [**Pytorch实战**](https://tianchi.aliyun.com/course/337?spm=5176.21206777.J_3641663050.11.698717c9js5gSD) | 边看边实践，一站式搞定Pytorch                                |      |
+|  12  | ![](./docs/svg/intro-to-machine-learning.svg) |  AI新手  | [**机器学习**-原理与实践](https://tianchi.aliyun.com/course/278?spm=5176.21206777.J_3641663050.12.698717c9js5gSD) | 告诉你什么是机器学习，如何玩转机器学习                       |      |
+|  13  |  ![](./docs/svg/intro-to-deep-learning.svg)   |  AI新手  | [**深度学习**-原理与实践](https://tianchi.aliyun.com/course/279?spm=5176.21206777.J_3641663050.13.698717c9js5gSD) | 告诉你深度学习的历史和应用，带你实践深度学习算法             |      |
+|  14  |          ![](./docs/svg/pandas.svg)           |  AI新手  | [**数据挖掘**-入门与实践](https://tianchi.aliyun.com/course/314?spm=5176.21206777.J_3641663050.14.698717c9js5gSD) | 学、练、赛模式带你轻松入门数据挖掘                           |      |
+|  15  |      ![](./docs/svg/computer-vision.svg)      |  AI新手  | [**计算机视觉**-入门与实践](https://tianchi.aliyun.com/course/315?spm=5176.21206777.J_3641663050.15.698717c9js5gSD) | 学、练、赛模式带你轻松入门计算机视觉                         |      |
+|  16  |          ![](./docs/svg/python.svg)           |  AI新手  | [**自然语言处理**-入门与实践](https://tianchi.aliyun.com/course/316?spm=5176.21206777.J_3641663050.16.698717c9js5gSD) | 学、练、赛模式带你轻松入门自然语言处理                       |      |
+|  17  |         ![](./docs/svg/comments.svg)          |  AI新手  | [**金融风控**-入门与实践](https://tianchi.aliyun.com/course/317?spm=5176.21206777.J_3641663050.17.698717c9js5gSD) | 学、练、赛模式带你轻松入门金融风控                           |      |
+|      |                                               |          |                                                              |                                                             |      |
+
+### 3、AI工程师
+
+| 序号 |                                               |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :-------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  18  |          ![](./docs/svg/pandas.svg)           | AI工程师 | [**数据挖掘类**-比赛](https://tianchi.aliyun.com/course/322?spm=5176.21206777.J_3641663050.18.698717c9js5gSD) | 汇总了天池平台**数据挖掘类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  19  |                                               | AI工程师 | [**自然语言处理类**-比赛](https://tianchi.aliyun.com/course/318?spm=5176.21206777.J_3641663050.19.698717c9js5gSD) | 汇总了天池平台**自然语言类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  20  |      ![](./docs/svg/computer-vision.svg)      | AI工程师 | [**计算机视觉类**-比赛](https://tianchi.aliyun.com/course/319?spm=5176.21206777.J_3641663050.20.698717c9js5gSD) | 汇总了天池平台**计算机视觉类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  21  |                                               | AI工程师 | [**程序设计类**-比赛](https://tianchi.aliyun.com/course/320?spm=5176.21206777.J_3641663050.21.698717c9js5gSD) | 汇总了天池平台**程序设计类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  22  |    ![](./docs/svg/intro-to-ai-ethics.svg)     | AI工程师 | [**创新应用类**-比赛](https://tianchi.aliyun.com/course/321?spm=5176.21206777.J_3641663050.22.698717c9js5gSD) | 汇总了天池平台**创新应用类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  23  |                                               |          |                                                              |                                                              |      |
+
+### 4、AI科学家
+
+
+| 序号 |                                               |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :-------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  24  |                                               | AI科学家 | [AAAI2021](https://tianchi.aliyun.com/course/326?spm=5176.21206777.J_3641663050.23.698717c9js5gSD) |                                                              |      |
+|  25  |                                               | AI科学家 | [CVPR2020](https://tianchi.aliyun.com/course/307?spm=5176.21206777.J_3641663050.24.698717c9js5gSD) |                                                              |      |
+|  26  |                                               | AI科学家 | [ACL2020](https://tianchi.aliyun.com/course/306?spm=5176.21206777.J_3641663050.25.698717c9js5gSD) |                                                              |      |
+|  27  |                                               | AI科学家 | [VLDB2020](https://tianchi.aliyun.com/course/305?spm=5176.21206777.J_3641663050.26.698717c9js5gSD) |                                                              |      |
+|  28  |                                               | AI科学家 | [EMNLP2020](https://tianchi.aliyun.com/course/304?spm=5176.21206777.J_3641663050.27.698717c9js5gSD) |                                                              |      |
+|  29  |                                               | AI科学家 | [ECCV2020](https://tianchi.aliyun.com/course/303?spm=5176.21206777.J_3641663050.28.698717c9js5gSD) |                                                              |      |
+|  30  |                                               | AI科学家 | [NeurlPS2020](https://tianchi.aliyun.com/course/297?spm=5176.21206777.J_3641663050.29.698717c9js5gSD) |                                                              |      |
+|      |                                               |          |                                                              |                                                              |      |
+|      |                                               |          |                                                              |                                                              |      |
+|      |                                               |          |                                                              |                                                              |      |
+
+
+
+
+
+## Tencent-Cloud
+
+---
+
+- https://cloud.tencent.com/edu/learning/courses?cid=10182
+- https://cloud.tencent.com/edu/learning/courses
+
+### 1、数学及AI基础
+
+- https://cloud.tencent.com/edu/learning/courses?cid=10192
+
+| 序号 |      |   阶段   |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :------: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 数学基础 | [5分钟一个人工智能小知识](https://cloud.tencent.com/edu/learning/course-1461-8217) |      |      |
+|  2   |      | 数学基础 | [10分钟机器学习数学课](https://cloud.tencent.com/edu/learning/course-1462) |      |      |
+|  3   |      | 数学基础 | [人工智能数学基础](https://cloud.tencent.com/edu/learning/course-2457) |      |      |
+|  4   |      |  AI基础  | [【独家授权】神经网络系列课——Google Brain Hugo Larochelle](https://cloud.tencent.com/edu/learning/course-1038) |      |      |
+|  5   |      |  AI基础  | [深度学习入门基础——算法工程师带你读AI圣经《Deep Learning》](https://cloud.tencent.com/edu/learning/course-1042) | DL   |      |
+|  6   |      |  AI基础  | [斯坦福大学公开课CS231n:深度学习视觉识别](https://cloud.tencent.com/edu/learning/course-1039) | CV   |      |
+|  7   |      |  AI基础  | [牛津大学xDeepMind自然语言处理](https://cloud.tencent.com/edu/learning/course-1035) | NLP  |      |
+|      |      |          |                                                              |      |      |
+
+
+
+### 2、机器学习与大数据
+
+| 序号 |      |   阶段    |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :-------: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 理论基础  | [统计学习](https://cloud.tencent.com/edu/learning/course-2362) |      |      |
+|  2   |      | 机器学习  | [进化算法Evolutionary Algorithms](https://cloud.tencent.com/edu/learning/course-1525) |      |      |
+|  3   |      | 机器学习  | [机器学习Scikit-Learn教学](https://cloud.tencent.com/edu/learning/course-1545) |      |      |
+|  4   |      | 机器学习  | [Xgboost使用指南](https://cloud.tencent.com/edu/learning/course-2414) |      |      |
+|  5   |      | 机器学习  | [LightGBM使用指南](https://cloud.tencent.com/edu/learning/course-2439) |      |      |
+|  6   |      | 机器学习  | [Pytorch tutorials神经网络](https://cloud.tencent.com/edu/learning/course-1529) |      |      |
+|  7   |      | 机器学习  | [知乎KOL阿萨姆：机器学习实践经验分享](https://cloud.tencent.com/edu/learning/course-1041-822) |      |      |
+|  8   |      | 强化学习  | [强化学习(Reinforcement Learning)Python教学](https://cloud.tencent.com/edu/learning/course-1527) |      |      |
+|  9   |      |  大数据   | [快速上手Greenplum系列课程-Greenplum 的介绍、安装与部署](https://cloud.tencent.com/edu/learning/course-2840-53907) |      |      |
+|  10  |      |  大数据   | [快速上手Greenplum系列课程-Greenplum生态与工具](https://cloud.tencent.com/edu/learning/course-3118-56023) |      |      |
+|  11  |      |  大数据   | [快速上手Greenplum系列课程-Greenplum备份、安全与高可用](https://cloud.tencent.com/edu/learning/course-2968-55172) |      |      |
+|  12  |      |  大数据   | [基于 Greenplum 的机器学习算法与实践-数据分析扩展语言](https://cloud.tencent.com/edu/learning/course-2917-54797) |      |      |
+|  13  |      |  大数据   |       [快速上手Greenplum系列课程-Greenplum快速调优]()        |      |      |
+|  14  |      | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-机器学习的前世今生](https://cloud.tencent.com/edu/learning/course-2650-51312) |      |      |
+|  15  |      |           | [基于 Greenplum 的机器学习算法与实践-朴素贝叶斯分类](https://cloud.tencent.com/edu/learning/course-2672-51861) |      |      |
+|  16  |      |           | [基于 Greenplum 的机器学习算法与实践-回归算法](https://cloud.tencent.com/edu/learning/course-2651-51319) |      |      |
+|  17  |      |           | [基于 Greenplum 的机器学习算法与实践-图算法](https://cloud.tencent.com/edu/learning/course-2881-54262) |      |      |
+|  18  |      |           | [基于 Greenplum 的机器学习算法与实践-基于树的分类](https://cloud.tencent.com/edu/learning/course-2714-52599) |      |      |
+|  19  |      |           | [基于 Greenplum 的机器学习算法与实践-非监督学习算法](https://cloud.tencent.com/edu/learning/course-2778-53393) |      |      |
+|  20  |      |           | [基于 Greenplum 的机器学习算法与实践-支持向量机](https://cloud.tencent.com/edu/learning/course-2754-53285) |      |      |
+|  21  |      |           | [基于 Greenplum 的机器学习算法与实践-时间序列经典算法](https://cloud.tencent.com/edu/learning/course-2839-53897) |      |      |
+|  22  |      |           | [基于 Greenplum 的机器学习算法与实践-人工神经网路与深度学习](https://cloud.tencent.com/edu/learning/course-2838-53884) |      |      |
+|      |      |           |                                                              |      |      |
+|      |      |           |                                                              |      |      |
+
+### 3、深度学习
+
+| 序号 |      |   阶段   |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :------: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 深度学习 | [硅谷技术大牛Siraj带你入门深度学习](https://cloud.tencent.com/edu/learning/course-1040) |      |      |
+|  2   |      | 深度学习 | [麻省理工学院公开课6.S094：深度学习与自动驾驶](https://cloud.tencent.com/edu/learning/course-1034) |      |      |
+|  3   |      | 深度学习 | [Pytorch Handbook](https://cloud.tencent.com/edu/learning/course-2348) |      |      |
+|  4   |      | 深度学习 | [英特尔OpenVINO工具包新特性介绍](https://cloud.tencent.com/edu/learning/course-2731) |      |      |
+|      |      |          |                                                              |      |      |
+
+
+
 # OpenL
 
 ---
@@ -315,13 +404,13 @@ https://www.nvidia.com/en-us/training/online/
 - [6].https://becominghuman.ai/road-map-to-machine-learning-deep-learning-8b26fd7279bb
 - [7].https://github.com/mrdbourke/machine-learning-roadmap
 - [8].https://github.com/dformoso/machine-learning-mindmap
-- https://www.youtube.com/watch?v=pHiMN_gy9mk
-- https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
-- https://www.kdnuggets.com/2022/12/complete-machine-learning-study-roadmap.html
-- https://www.projectpro.io/article/machine-learning-learning-path/551
-- https://medium.datadriveninvestor.com/machine-learning-road-map-in-2022-1a856fb71bf9
-- https://myriadbrain.com/machine-learning-roadmap/
-- https://omdena.com/blog/data-science-road-map/
+- [9].https://www.youtube.com/watch?v=pHiMN_gy9mk
+- [10].https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
+- [11].https://www.kdnuggets.com/2022/12/complete-machine-learning-study-roadmap.html
+- [12].https://www.projectpro.io/article/machine-learning-learning-path/551
+- [13].https://medium.datadriveninvestor.com/machine-learning-road-map-in-2022-1a856fb71bf9
+- [14].https://myriadbrain.com/machine-learning-roadmap/
+- [15].https://omdena.com/blog/data-science-road-map/
 
 # Learn
 
