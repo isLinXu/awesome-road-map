@@ -18,17 +18,45 @@ awesome road map
 
 ---
 
-## Microsoft
+## <img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft
 
 ---
 
 - https://learn.microsoft.com/zh-cn/
+- https://microsoft.github.io/ai-edu/
+- https://microsoft.github.io/ML-For-Beginners/#/
+- https://www.coursera.org/learn/microsoft-azure-machine-learning
 
+| Lesson Number | Topic                                                      | Lesson Grouping                                              | Learning Objectives                                          | Linked Lesson                                                | Author                    |
+| ------------- | ---------------------------------------------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------- |
+| 01            | Introduction to machine learning                           | [Introduction](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/README) | Learn the basic concepts behind machine learning             | [Lesson](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/1-intro-to-ML/README) | Muhammad                  |
+| 02            | The History of machine learning                            | [Introduction](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/README) | Learn the history underlying this field                      | [Lesson](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/2-history-of-ML/README) | Jen and Amy               |
+| 03            | Fairness and machine learning                              | [Introduction](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/README) | What are the important philosophical issues around fairness that students should consider when building and applying ML models? | [Lesson](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/3-fairness/README) | Tomomi                    |
+| 04            | Techniques for machine learning                            | [Introduction](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/README) | What techniques do ML researchers use to build ML models?    | [Lesson](https://microsoft.github.io/ML-For-Beginners/#/1-Introduction/4-techniques-of-ML/README) | Chris and Jen             |
+| 05            | Introduction to regression                                 | [Regression](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README) | Get started with Python and Scikit-learn for regression models | [Python](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/1-Tools/README)[R](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/1-Tools/solution/R/lesson_1-R.ipynb) | JenEric Wanjau            |
+| 06            | North American pumpkin prices 🎃                            | [Regression](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README) | Visualize and clean data in preparation for ML               | [Python](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/2-Data/README)[R](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/2-Data/solution/R/lesson_2-R.ipynb) | JenEric Wanjau            |
+| 07            | North American pumpkin prices 🎃                            | [Regression](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README) | Build linear and polynomial regression models                | [Python](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/3-Linear/README)[R](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/3-Linear/solution/R/lesson_3-R.ipynb) | Jen and DmitryEric Wanjau |
+| 08            | North American pumpkin prices 🎃                            | [Regression](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/README) | Build a logistic regression model                            | [Python](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/4-Logistic/README)[R](https://microsoft.github.io/ML-For-Beginners/#/2-Regression/4-Logistic/solution/R/lesson_4-R.ipynb) | JenEric Wanjau            |
+| 09            | A Web App 🔌                                                | [Web App](https://microsoft.github.io/ML-For-Beginners/#/3-Web-App/README) | Build a web app to use your trained model                    | [Python](https://microsoft.github.io/ML-For-Beginners/#/3-Web-App/1-Web-App/README) | Jen                       |
+| 10            | Introduction to classification                             | [Classification](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README) | Clean, prep, and visualize your data; introduction to classification | [Python](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/1-Introduction/README)[R](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/1-Introduction/solution/R/lesson_10-R.ipynb) | Jen and CassieEric Wanjau |
+| 11            | Delicious Asian and Indian cuisines 🍜                      | [Classification](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README) | Introduction to classifiers                                  | [Python](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/2-Classifiers-1/README)[R](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/2-Classifiers-1/solution/R/lesson_11-R.ipynb) | Jen and CassieEric Wanjau |
+| 12            | Delicious Asian and Indian cuisines 🍜                      | [Classification](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README) | More classifiers                                             | [Python](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/3-Classifiers-2/README)[R](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/3-Classifiers-2/solution/R/lesson_12-R.ipynb) | Jen and CassieEric Wanjau |
+| 13            | Delicious Asian and Indian cuisines 🍜                      | [Classification](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/README) | Build a recommender web app using your model                 | [Python](https://microsoft.github.io/ML-For-Beginners/#/4-Classification/4-Applied/README) | Jen                       |
+| 14            | Introduction to clustering                                 | [Clustering](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/README) | Clean, prep, and visualize your data; Introduction to clustering | [Python](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/1-Visualize/README)[R](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/1-Visualize/solution/R/lesson_14-R.ipynb) | JenEric Wanjau            |
+| 15            | Exploring Nigerian Musical Tastes 🎧                        | [Clustering](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/README) | Explore the K-Means clustering method                        | [Python](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/2-K-Means/README)[R](https://microsoft.github.io/ML-For-Beginners/#/5-Clustering/2-K-Means/solution/R/lesson_15-R.ipynb) | JenEric Wanjau            |
+| 16            | Introduction to natural language processing ☕️              | [Natural language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README) | Learn the basics about NLP by building a simple bot          | [Python](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/1-Introduction-to-NLP/README) | Stephen                   |
+| 17            | Common NLP Tasks ☕️                                         | [Natural language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README) | Deepen your NLP knowledge by understanding common tasks required when dealing with language structures | [Python](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/2-Tasks/README) | Stephen                   |
+| 18            | Translation and sentiment analysis ♥️                       | [Natural language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README) | Translation and sentiment analysis with Jane Austen          | [Python](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/3-Translation-Sentiment/README) | Stephen                   |
+| 19            | Romantic hotels of Europe ♥️                                | [Natural language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README) | Sentiment analysis with hotel reviews 1                      | [Python](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/4-Hotel-Reviews-1/README) | Stephen                   |
+| 20            | Romantic hotels of Europe ♥️                                | [Natural language processing](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/README) | Sentiment analysis with hotel reviews 2                      | [Python](https://microsoft.github.io/ML-For-Beginners/#/6-NLP/5-Hotel-Reviews-2/README) | Stephen                   |
+| 21            | Introduction to time series forecasting                    | [Time series](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/README) | Introduction to time series forecasting                      | [Python](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/1-Introduction/README) | Francesca                 |
+| 22            | ⚡️ World Power Usage ⚡️ - time series forecasting with ARIMA | [Time series](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/README) | Time series forecasting with ARIMA                           | [Python](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/2-ARIMA/README) | Francesca                 |
+| 23            | ⚡️ World Power Usage ⚡️ - time series forecasting with SVR   | [Time series](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/README) | Time series forecasting with Support Vector Regressor        | [Python](https://microsoft.github.io/ML-For-Beginners/#/7-TimeSeries/3-SVR/README) | Anirban                   |
+| 24            | Introduction to reinforcement learning                     | [Reinforcement learning](https://microsoft.github.io/ML-For-Beginners/#/8-Reinforcement/README) | Introduction to reinforcement learning with Q-Learning       | [Python](https://microsoft.github.io/ML-For-Beginners/#/8-Reinforcement/1-QLearning/README) | Dmitry                    |
+| 25            | Help Peter avoid the wolf! 🐺                               | [Reinforcement learning](https://microsoft.github.io/ML-For-Beginners/#/8-Reinforcement/README) | Reinforcement learning Gym                                   | [Python](https://microsoft.github.io/ML-For-Beginners/#/8-Reinforcement/2-Gym/README) | Dmitry                    |
+| Postscript    | Real-World ML scenarios and applications                   | [ML in the Wild](https://microsoft.github.io/ML-For-Beginners/#/9-Real-World/README) | Interesting and revealing real-world applications of classical ML | [Lesson](https://microsoft.github.io/ML-For-Beginners/#/9-Real-World/1-Applications/README) | Team                      |
 
-
-
-
-## Meta(facebook)
+## <img src="./docs/svg/Meta_Platforms_Inc._logo.svg.png" style="zoom:10%;" />Meta(facebook)
 
 ---
 
@@ -36,15 +64,41 @@ awesome road map
 
 - https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/
 
+- https://www.youtube.com/@FacebookAI
 
+![](./docs/pic/mate_ml_pipeline.png)
 
-## Intel
+## <img src="./docs/svg/Intel_logo.svg.png" style="zoom:10%;" />Intel
 
 - https://www.intel.cn/content/www/cn/zh/developer/topic-technology/artificial-intelligence/overview.html
-
+- https://www.intel.com/content/www/us/en/developer/learn/course-machine-learning.html
 - https://github.com/dohahelmy/resources-intel-edge-ai-scholarship-2020
 
-## Google
+**Learn AI theory and follow hands-on exercises with our free courses from the Intel® AI Academy for software developers, data scientists, and students. These lessons cover AI topics and explore tools and optimized libraries that take advantage of Intel® processors in personal computers and server workstations.**
+From the basics of AI to graduate-level topics in technical AI theory, these courses explain the intuition and mathematics behind AI.
+
+### 1. Machine Learning
+
+![](./docs/pic/intel_ml.png)
+
+Get an overview of the fundamentals of machine learning on modern Intel® architecture. (12 weeks)
+[Get Started](https://software.intel.com/content/www/us/en/develop/training/course-machine-learning.html)
+
+### 2. Deep Learning
+
+![](./docs/pic/intel_dl.png)
+
+Learn the basic techniques and foundations of deep learning on modern Intel architecture. (12 weeks)
+[Get Started](https://software.intel.com/content/www/us/en/develop/training/course-deep-learning.html)
+
+### 3. Introduction to AI
+
+![](./docs/pic/intel_ai.png)
+
+Explore the fundamentals of AI in this introductory course — without the math. (8 weeks)
+[Get Started](https://software.intel.com/content/www/us/en/develop/training/course-artificial-intelligence.html)
+
+## <img src="./docs/svg/Google_Logo.svg.png" style="zoom: 5%;" />Google
 
 ---
 
@@ -54,16 +108,16 @@ awesome road map
 
   
 
-## Apple
+## <img src="./docs/svg/Apple_logo_black.svg.png" style="zoom:5%;" />Apple
 
 ---
 
-- https://developer.apple.com/machine-learning/
+- https://developer.apple.com/machine-learning/5
 - https://developer.apple.com/learn/curriculum/
 
 
 
-## Amazon
+## <img src="./docs/svg/Amazon_logo.svg.png" style="zoom:5%;" />Amazon
 
 ---
 
@@ -72,7 +126,7 @@ awesome road map
 
 
 
-## NVIDIA
+## <img src="./docs/svg/Nvidia_logo.svg.png" style="zoom: 5%;" />NVIDIA
 
 ---
 
@@ -80,7 +134,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## Kaggle
+## <img src="./docs/svg/kaggle-logo.svg" />Kaggle
 
 ---
 
@@ -110,7 +164,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## HUAWEI
+## ![](./docs/svg/huawei_cloud.png)HUAWEI-Cloud
 
 ---
 
@@ -148,6 +202,22 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
+
+## <img src="./docs/svg/mindspore.png" style="zoom:25%;" />HUAWEI-Mindspore
+
+- https://www.mindspore.cn/resources/courses
+
+| 序号 |                               | 阶段 |                             课程                             | 说明                                                         | 其他 |
+| :--: | :---------------------------: | :--: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  1   | ![](./docs/svg/mindspore.png) | 初级 | [MindSpore入门学习](https://www.mindspore.cn/resources/courses/list?id=47) | 课程从基本数字识别到张量、数据处理、创建网络、模型创建等，全方位助力新手入门，让您一小时上手MindSpore！(共1个系列9节课) |      |
+|      | ![](./docs/svg/mindspore.png) | 中级 | [进阶教程](https://www.mindspore.cn/resources/courses/list?id=48#title124) | 本次进阶课程中基于基础课程知识的学习，进一步介绍了线性拟合、数据处理、网络构建和数据评估等四个方面的知识，带你深入了解MindSpore~(共4个系列21节课) |      |
+|      | ![](./docs/svg/mindspore.png) | 中级 | [深度学习理论](https://www.mindspore.cn/resources/courses/list?id=48#title57) | 本课程是一门侧重在深度学习相关理论基础的课程，并对深度学习的典型模型框架的基本原理进行了介绍。(共1个系列15节课) |      |
+|      | ![](./docs/svg/mindspore.png) | 中级 | [实例讲解](https://www.mindspore.cn/resources/courses/list?id=48#title120) | 本课程通过多种实例演示MindSpore实践和使用方法(共1个系列6节课) |      |
+|      | ![](./docs/svg/mindspore.png) | 高级 | [UCL汪军教授课程](https://www.mindspore.cn/resources/courses/list?id=49#title87) | 汪军，伦敦大学学院(UCL)计算机系教授，阿兰·图灵研究所 Turing Fellow，华为诺亚方舟实验室决策推理首席顾问。(共1个系列48节课) |      |
+|      | ![](./docs/svg/mindspore.png) | 其他 | [在线公开课](https://www.mindspore.cn/resources/courses/list?id=50#title54) | 免费开课，主题讲解，在线答疑，项目实践。(共2个系列12节课)    |      |
+|      | ![](./docs/svg/mindspore.png) | 其他 | [两日集训营](https://www.mindspore.cn/resources/courses/list?id=50#title55) | 结合新版本发布特性，讲解实践流程，不定期开课。(共7个系列38节课) |      |
+|      |                               |      |                                                              |                                                              |      |
+|      |                               |      |                                                              |                                                              |      |
 
 ## Baidu-PaddlePaddle
 
@@ -193,78 +263,74 @@ https://www.nvidia.com/en-us/training/online/
 |  5   |      |      | [飞桨领航团-AI达人养成营](https://aistudio.baidu.com/aistudio/course/introduce/25038) |      |      |
 |  6   |      |      | [飞桨领航团-实战速成营](https://aistudio.baidu.com/aistudio/course/introduce/16606) |      |      |
 |  7   |      |      | [飞桨领航团-AI达人特训营](https://aistudio.baidu.com/aistudio/course/introduce/26207) |      |      |
-|  8   |      |      | [AI快车道-**PaddleClas**系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/24519) |      |      |
-|  9   |      |      | [AI快车道-**PaddleDetection**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/23670) |      |      |
-|  10  |      |      | [AI快车道-**PaddleSeg**系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/24590) |      |      |
-|  11  |      |      | [AI快车道-**PaddleOCR**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
-|  12  |      |      | [AI快车道2020-**PaddleOCR**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
-|  13  |      |      | [AI快车道-遥感影像智能解译开发套件PaddleRS](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
-|      |      |      | [AI快车道-**PLSC**系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/25103) |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
-|      |      |      |                                                              |      |      |
+|      |      |      | [图像分割7日打卡营](https://aistudio.baidu.com/aistudio/course/introduce/1767) |      |      |
+|      |      |      | [生成对抗网络7日打卡营](https://aistudio.baidu.com/aistudio/course/introduce/16651) |      |      |
+|      |      |      | [图神经网络7日打卡营](https://aistudio.baidu.com/aistudio/course/introduce/1956) |      |      |
+|      |      |      | [飞桨论文复现打卡营](https://aistudio.baidu.com/aistudio/course/introduce/24681) |      |      |
+|      |      |      | [百度顶会论文复现营第2期](https://aistudio.baidu.com/aistudio/course/introduce/21696) |      |      |
 |      |      |      |                                                              |      |      |
 
 ### 4、自然语言处理
 
-| 序号 |      | 阶段 | 课程 | 说明 | 其他 |
-| :--: | :--: | :--: | :--: | ---- | ---- |
-|  1   |      |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  4   |      |      |      |      |      |
-|  5   |      |      |      |      |      |
-|  6   |      |      |      |      |      |
+| 序号 |      | 阶段 |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :--: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 初级 | [基于深度学习的自然语言处理](https://aistudio.baidu.com/aistudio/course/introduce/24177) |      |      |
+|  2   |      | 初级 | [EasyDL产业系列NLP信息处理](https://aistudio.baidu.com/aistudio/course/introduce/1443) |      |      |
+|  3   |      | 初级 | [零门槛搞懂基于大模型的AIGC应用及技术要点](https://aistudio.baidu.com/aistudio/course/introduce/26723) |      |      |
+|  4   |      | 中级 | [李宏毅课程-人类语言处理](https://aistudio.baidu.com/aistudio/course/introduce/2060) |      |      |
+|  5   |      | 中级 | [PaddleNLP实战教程](https://aistudio.baidu.com/aistudio/course/introduce/25604) |      |      |
+|  6   |      | 中级 | [Transformer原理和实践系列课](https://aistudio.baidu.com/aistudio/course/introduce/24683) |      |      |
+|  7   |      | 中级 | [AI快车道PaddleNLP系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/24902) |      |      |
+|  8   |      | 高级 | [飞桨论文复现打卡营](https://aistudio.baidu.com/aistudio/course/introduce/24681) |      |      |
 
 ### 5、推理/部署/硬件
 
-| 序号 |      | 阶段 | 课程 | 说明 | 其他 |
-| :--: | :--: | :--: | :--: | ---- | ---- |
-|  1   |      |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  4   |      |      |      |      |      |
-|  5   |      |      |      |      |      |
-|  6   |      |      |      |      |      |
+| 序号 |      | 阶段 |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :--: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 初级 | [飞桨领航团AI达人创造营](https://aistudio.baidu.com/aistudio/course/introduce/24607) |      |      |
+|  2   |      | 初级 | [AI快车道-FastDeploy推理部署套件系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/27800) |      |      |
+|  3   |      | 中级 | [2021AI快车道服务器部署课](https://aistudio.baidu.com/aistudio/course/introduce/19084) |      |      |
+|  4   |      | 中级 | [2021AI快车道端侧部署系列课](https://aistudio.baidu.com/aistudio/course/introduce/22690) |      |      |
+|  5   |      | 高级 | [深度学习框架开发指南-飞桨黑客松2.0](https://aistudio.baidu.com/aistudio/education/group/info/25520) |      |      |
+|  6   |      |      |                                                              |      |      |
 
 ### 6、学术前沿
 
-| 序号 |      | 阶段 | 课程 | 说明 | 其他 |
-| :--: | :--: | :--: | :--: | ---- | ---- |
-|  1   |      |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  4   |      |      |      |      |      |
-|  5   |      |      |      |      |      |
-|  6   |      |      |      |      |      |
+| 序号 |      | 阶段 |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :--: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 初级 | [两小时玩转大模型创意应用](https://aistudio.baidu.com/aistudio/course/introduce/26374) |      |      |
+|  2   |      | 中级 | [百度顶会论文复现营](https://aistudio.baidu.com/aistudio/course/introduce/1340) |      |      |
+|  3   |      | 中级 | [百度顶会论文复现营第二期](https://aistudio.baidu.com/aistudio/course/introduce/21696) |      |      |
+|  4   |      | 中级 | [飞桨AI for Science流体力学公开课第一期](https://aistudio.baidu.com/aistudio/education/group/info/27926) |      |      |
+|  5   |      | 高级 | [从零开始学视觉Transformer](https://aistudio.baidu.com/aistudio/course/introduce/25102) |      |      |
+|  6   |      | 高级 | [飞桨论文复现打卡营](https://aistudio.baidu.com/aistudio/course/introduce/24681) |      |      |
+|  7   |      | 高级 | [AI前沿-飞桨博士会分享](https://aistudio.baidu.com/aistudio/course/introduce/25717) |      |      |
+|      |      |      |                                                              |      |      |
 
 ### 7、AI行业案例
 
-| 序号 |      | 阶段 | 课程 | 说明 | 其他 |
-| :--: | :--: | :--: | :--: | ---- | ---- |
-|  1   |      |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  4   |      |      |      |      |      |
-|  5   |      |      |      |      |      |
-|  6   |      |      |      |      |      |
+| 序号 |      | 阶段 |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :--: | :----------------------------------------------------------: | ---- | ---- |
+|  1   |      | 初级 |              EasyDL智慧零售商品销量预测方案解析              |      |      |
+|  2   |      | 初级 |                  EasyDL电商UGC海量图像分类                   |      |      |
+|  3   |      | 初级 | [人工智能技术趋势与产业发展](https://aistudio.baidu.com/aistudio/course/introduce/25789) |      |      |
+|  4   |      |      |                                                              |      |      |
+|  5   |      |      |                                                              |      |      |
+|  6   |      |      |                                                              |      |      |
 
 ### 8、AI快车道
 
-| 序号 |      | 阶段 | 课程 | 说明 | 其他 |
-| :--: | :--: | :--: | :--: | ---- | ---- |
-|  1   |      |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  4   |      |      |      |      |      |
-|  5   |      |      |      |      |      |
-|  6   |      |      |      |      |      |
+- https://ai.baidu.com/tech/paddle/AIfastlane
+
+| 序号 |      | 阶段 |                             课程                             | 说明 | 其他 |
+| :--: | :--: | :--: | :----------------------------------------------------------: | ---- | ---- |
+|      |      |      | [AI快车道-**PaddleDetection**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/23670) |      |      |
+|      |      |      | [AI快车道-**PaddleSeg**系列直播课](https://aistudio.baidu.com/aistudio/course/introduce/24590) |      |      |
+|      |      |      | [AI快车道-**PaddleOCR**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
+|      |      |      | [AI快车道2020-**PaddleOCR**系列直播课](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
+|      |      |      | [AI快车道-遥感影像智能解译开发套件PaddleRS](https://aistudio.baidu.com/aistudio/education/group/info/1519) |      |      |
+|      |      |      |                                                              |      |      |
+|      |      |      |                                                              |      |      |
 
 ### 9、推件系统/语音
 
@@ -283,7 +349,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## Alibaba-TianChi
+## <img src="./docs/svg/tianchi_logo1.png" style="zoom:33%;" />Alibaba-TianChi
 
 ----
 
@@ -346,7 +412,9 @@ https://www.nvidia.com/en-us/training/online/
 |      |                                               |          |                                                              |                                                              |      |
 |      |                                               |          |                                                              |                                                              |      |
 
-## Alibaba-Cloud
+
+
+## <img src="./docs/svg/aliyun_logo.png" style="zoom: 33%;" />Alibaba-Cloud
 
 ### Python学习路径
 
