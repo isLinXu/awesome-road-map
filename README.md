@@ -14,6 +14,9 @@ awesome road map
 
 # Road Map
 
+![](./docs/img/begnroadmap.png)
+
+
 
 
 ---
@@ -106,16 +109,16 @@ Explore the fundamentals of AI in this introductory course — without the math.
 
 - https://www.tensorflow.org/resources/learn-ml?hl=zh-cn
 
-  
+  ![](./docs/pic/google_ai.png)
 
 ## <img src="./docs/svg/Apple_logo_black.svg.png" style="zoom:5%;" />Apple
 
 ---
 
-- https://developer.apple.com/machine-learning/5
+- https://developer.apple.com/machine-learning/
 - https://developer.apple.com/learn/curriculum/
 
-
+![](./docs/pic/apple_ai.png)
 
 ## <img src="./docs/svg/Amazon_logo.svg.png" style="zoom:5%;" />Amazon
 
@@ -124,7 +127,7 @@ Explore the fundamentals of AI in this introductory course — without the math.
 - https://aws.amazon.com/cn/training/learn-about/machine-learning/
 - https://solutionsreview.com/business-intelligence/the-best-aws-machine-learning-courses/
 
-
+![](./docs/pic/aws_logo.png)
 
 ## <img src="./docs/svg/Nvidia_logo.svg.png" style="zoom: 5%;" />NVIDIA
 
@@ -132,7 +135,7 @@ Explore the fundamentals of AI in this introductory course — without the math.
 
 https://www.nvidia.com/en-us/training/online/
 
-
+![](./docs/pic/nvidia_ai.png)
 
 ## <img src="./docs/svg/kaggle-ar21.svg" style="zoom:50%;" />Kaggle
 
@@ -171,33 +174,32 @@ https://www.nvidia.com/en-us/training/online/
 - https://ilearningx.huawei.com/
 - https://edu.huaweicloud.com/courses
 
-| 序号 |                                               |                             课程                             | 说明                                                         | 其他 |
-| :--: | --------------------------------------------- | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|      |                                               | [AI基础课程--概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE072+Self-paced/about?ticket=ST-92004449-x3udUhsMjmpdm3yPdBvvWpWa-sso&locale=zh-cn) | 本课程主要介绍人工智能的概念、层次结构及发展历史，人工智能产业发展与战略规划，并探讨华为全栈全场景AI的战略。 |      |
-|      | ![](./docs/svg/python.svg)                    | [**Python编程基础**](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000531/about) | 课程主要内容为Python编程基础。课程以实验为主，通过对Python中基础语法、数据结构、函数与对象和IO操作等帮助学员快速构建Python编程的能力。 |      |
-|      |                                               | [AI基础课程--Python编程知识](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE079+Self-paced/about?ticket=ST-91999911-hHr6ZCa5h0iYGnsNOlV2fnXB-sso&locale=zh-cn) | Python是近几年最为流行的编程语言之一，它有着优雅的语法和丰富的工具库。相比于java和C语言而言，Python的门槛更低、更加灵活易于被人读懂。 |      |
-|      | ![](./docs/svg/pandas.svg)                    | [**AI 数学基础**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000535+microcourse/about?blockID=0852bb8d284143198398459ee2829902) | 课程主要内容为AI相关的数学基础，从理论&实验两个方面，详细介绍了线性代数、概率论、最优化问题的基础知识。 |      |
-|      |                                               | [AI基础课程--数学基础知识](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE066+Self-paced/about?ticket=ST-92003581-T3Vnt7br3DKocPyrQ3oUtUfP-sso&locale=zh-cn) | 数学基础知识蕴含着处理智能问题的基本思想和方法，是理解复杂算法的必要要素。人工智能的技术归根到底都建立在数学模型之上，想要了解人工智能必须先掌握必备的一些数学知识。 |      |
-|      | ![](./docs/svg/intro-to-machine-learning.svg) | [**机器学习概览**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000554+microcourse/about?blockID=d8166938977c4bc8b8ad0b1a592fb80a) | 通过系统全面的理论介绍、实验演示、案例分析，详细讲解了人工智能技术当前最火热的研究方向——机器学习算法的知识。 |      |
-|      |                                               | [人工智能概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE151+Self-paced/about) | HCIA-AI V3.0系列课程。本课程讲述了人工智能的发展历史、相关概念。 |      |
-|      |                                               | [AI基础课程-机器学习概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE152+Self-paced/about?ticket=ST-92001045-BmQ4krJy6XPDNZz6OCibLN7p-sso&locale=zh-cn) | HCIA-AI V3.0系列课程。机器学习（包括深度学习分支）是研究“学习算法”的一门学问，本课程讲述机器学习算法、分类、整体流程、重要概念、常见算法。 |      |
-|      |                                               | [深度学习概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE153+Self-paced/about?ticket=ST-92004619-dcJmH7Pgd5fQVUcuTVTv1FZe-sso&locale=zh-cn) | HCIA-AI V3.0系列课程。本课程主要讲述深度学习相关的基本知识，其中包括深度学习的发展历程、深度学习神经 网络的部件、深度学习神经网络不同的类型以及深度学习工程中常见的问题。 |      |
-|      |                                               | [神经网络基础](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE174+Self-paced/about) | HCIP-AI EI Developer V2.0系列课程。神经网络是深度学习的重要基础，理解神经网络的基本原理、优化目标与实现方法是学习后面内容的关键，这也是本课程的重点所在。 |      |
-|      |                                               | [AI基础课程--概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE072+Self-paced/about) | 本课程主要介绍人工智能的概念、层次结构及发展历史，人工智能产业发展与战略规划，并探讨华为全栈全场景AI的战略。 |      |
-|      |                                               | [AI基础课程--常用框架工具](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE081+Self-paced/about?ticket=ST-92002537-TwjZ6VKlCpm3BWxMzhc0OFvf-sso&locale=zh-cn) | Python作为目前最为流行的一种编程语言，拥有数十万的工具包，包含了非常多的领域，如：用于数据分析和计算的numpy、pandas；数据可视化工具matplotlib等。 |      |
-|      |                                               | [AI全栈成长计划-AI基础篇](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE130+Self-paced/about) | 本课程为AI全栈成长计划第一阶段课程：AI基础篇。本阶段您将学习到：Python语言基础，AI基础概念，并由华为AI专家带您 0 代码开发自己的第一个AI模型。 |      |
-|      |                                               | [AI全栈成长计划-AI进阶篇](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE145+Self-paced/about) | 本课程为AI全栈成长计划第二阶段课程：AI进阶篇。本阶段将由华为AI专家带您学习AI开发两大热门领域：图像分类和物体检测的模型开发，正式入门AI代码开发！ |      |
-|      |                                               | [AI全栈成长计划-AI应用篇](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE172+Self-paced/about) | 本课程为AI全栈成长计划第三阶段课程：AI应用篇。您将学习到行业深度应用的AI领域知识：OCR与NLP的概念及其模型开发 |      |
-|      | ![](./docs/svg/intro-to-deep-learning.svg)    | [HCIA-AI V3.0 华为认证人工智能工程师在线课程](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000530/about) | 课程包含：人工智能概述、机器学习和深度学习的相关知识，业界主流开发框架的使用发方法以及华为的全栈全场景AI战略所包含的Atlas计算平台，HiAI ，EI等内容。 建议你在开始本课程前，先学习 《Python 编程基础》、《AI 数学基础》这两门课程。先夯实关于Python、AI相关的数学基础，再学习本课程，更加容易上手。 |      |
-|      |                                               | [业界主流AI开发框架](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE154+Self-paced/about?ticket=ST-92010419-DeaZJisnzZrhs2h0LXSBbygR-sso&locale=zh-cn) | HCIA-AI V3.0系列课程。本课程将主要讲述为什么是深度学习框架、深度学习框架的优势并介绍二种深度学习 框架，包括Pytorch和TensorFlow。 |      |
-|      |                                               | [AI技术领域课程--机器学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE086+Self-paced/about?ticket=ST-92007091-zoz72p7waaPiD5K6Wa3duhIM-sso&locale=zh-cn) | 本课程将会讲解机器学习相关算法，包括监督学习，无监督学习，集成算法等。 |      |
-|      |                                               | [AI技术领域课程--深度学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE088+Self-paced/about?ticket=ST-92005529-3ih6QlstCXKBmGSbtEM501DM-sso&locale=zh-cn) | 本课程将会探讨深度学习中的基础理论、算法、使用方法、技巧与不同的深度学习模型。 |      |
-|      |                                               | [AI技术领域课程--图网络](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE082+Self-paced/about?ticket=ST-92011843-iHCWmXTmmBmuEBMNe1sPySmT-sso&locale=zh-cn) | 图网络是表征学习中兴起的一个新方向，为解决逻辑推理问题带来了新的可能的方向。本课程所讲的图网络主要包含对于图嵌入的与图神经网络的介绍 |      |
-|      |                                               | [AI技术应用场景--知识图谱](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE089+Self-paced/about?ticket=ST-92012133-Ahg61DdP5Ugv9bZYpBdS7tTs-sso&locale=zh-cn) | 本课程从知识图谱的概述，知识抽取，知识表示，知识融合，知识加工和知识存放等方面对知识图谱从零到一的构建进行了全面的介绍。 |      |
-|      |                                               | [AI技术领域课程--生成对抗网络](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE085+Self-paced/about?ticket=ST-92004341-6NUNs29NLR2Svgs0ZJSViY3Q-sso&locale=zh-cn) | 生成对抗网络（Generative Adversarial Network，简称GAN）是非监督式学习的一种方法，通过让两个神经网络相互博弈的方式进行学习，迅速成为了最具前景的深度学习模型。 |      |
-|      |                                               | [AI技术领域课程--强化学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE073+Self-paced/about?ticket=ST-92006847-jbYUdtO5p5xamFJpHn3K9ezb-sso&locale=zh-cn) | 强化学习是机器学习中与监督学习、无监督学习、半监督学习并驾齐驱的四大算法思想之一，强化学习思想接近人类的学习过程，且在游戏、自动驾驶、电商等领域获得了极大的成功。 |      |
-|      |                                               |                                                              |                                                              |      |
-|      |                                               |                                                              |                                                              |      |
+| 序号 |                                  |                             课程                             | 说明                                                         | 其他 |
+| :--: | -------------------------------- | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI基础课程--概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE072+Self-paced/about?ticket=ST-92004449-x3udUhsMjmpdm3yPdBvvWpWa-sso&locale=zh-cn) | 本课程主要介绍人工智能的概念、层次结构及发展历史，人工智能产业发展与战略规划，并探讨华为全栈全场景AI的战略。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [**Python编程基础**](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000531/about) | 课程主要内容为Python编程基础。课程以实验为主，通过对Python中基础语法、数据结构、函数与对象和IO操作等帮助学员快速构建Python编程的能力。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI基础课程--Python编程知识](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE079+Self-paced/about?ticket=ST-91999911-hHr6ZCa5h0iYGnsNOlV2fnXB-sso&locale=zh-cn) | Python是近几年最为流行的编程语言之一，它有着优雅的语法和丰富的工具库。相比于java和C语言而言，Python的门槛更低、更加灵活易于被人读懂。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [**AI 数学基础**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000535+microcourse/about?blockID=0852bb8d284143198398459ee2829902) | 课程主要内容为AI相关的数学基础，从理论&实验两个方面，详细介绍了线性代数、概率论、最优化问题的基础知识。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI基础课程--数学基础知识](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE066+Self-paced/about?ticket=ST-92003581-T3Vnt7br3DKocPyrQ3oUtUfP-sso&locale=zh-cn) | 数学基础知识蕴含着处理智能问题的基本思想和方法，是理解复杂算法的必要要素。人工智能的技术归根到底都建立在数学模型之上，想要了解人工智能必须先掌握必备的一些数学知识。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [**机器学习概览**](https://ilearningx.huawei.com/portal/micro/course-v1:HuaweiX+EBGTC00000554+microcourse/about?blockID=d8166938977c4bc8b8ad0b1a592fb80a) | 通过系统全面的理论介绍、实验演示、案例分析，详细讲解了人工智能技术当前最火热的研究方向——机器学习算法的知识。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [人工智能概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE151+Self-paced/about) | HCIA-AI V3.0系列课程。本课程讲述了人工智能的发展历史、相关概念。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI基础课程-机器学习概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE152+Self-paced/about?ticket=ST-92001045-BmQ4krJy6XPDNZz6OCibLN7p-sso&locale=zh-cn) | HCIA-AI V3.0系列课程。机器学习（包括深度学习分支）是研究“学习算法”的一门学问，本课程讲述机器学习算法、分类、整体流程、重要概念、常见算法。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [深度学习概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE153+Self-paced/about?ticket=ST-92004619-dcJmH7Pgd5fQVUcuTVTv1FZe-sso&locale=zh-cn) | HCIA-AI V3.0系列课程。本课程主要讲述深度学习相关的基本知识，其中包括深度学习的发展历程、深度学习神经 网络的部件、深度学习神经网络不同的类型以及深度学习工程中常见的问题。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [神经网络基础](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE174+Self-paced/about) | HCIP-AI EI Developer V2.0系列课程。神经网络是深度学习的重要基础，理解神经网络的基本原理、优化目标与实现方法是学习后面内容的关键，这也是本课程的重点所在。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI基础课程--概览](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE072+Self-paced/about) | 本课程主要介绍人工智能的概念、层次结构及发展历史，人工智能产业发展与战略规划，并探讨华为全栈全场景AI的战略。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI基础课程--常用框架工具](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE081+Self-paced/about?ticket=ST-92002537-TwjZ6VKlCpm3BWxMzhc0OFvf-sso&locale=zh-cn) | Python作为目前最为流行的一种编程语言，拥有数十万的工具包，包含了非常多的领域，如：用于数据分析和计算的numpy、pandas；数据可视化工具matplotlib等。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI全栈成长计划-AI基础篇](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE130+Self-paced/about) | 本课程为AI全栈成长计划第一阶段课程：AI基础篇。本阶段您将学习到：Python语言基础，AI基础概念，并由华为AI专家带您 0 代码开发自己的第一个AI模型。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI全栈成长计划-AI进阶篇](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE145+Self-paced/about) | 本课程为AI全栈成长计划第二阶段课程：AI进阶篇。本阶段将由华为AI专家带您学习AI开发两大热门领域：图像分类和物体检测的模型开发，正式入门AI代码开发！ |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI全栈成长计划-AI应用篇](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE172+Self-paced/about) | 本课程为AI全栈成长计划第三阶段课程：AI应用篇。您将学习到行业深度应用的AI领域知识：OCR与NLP的概念及其模型开发 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [HCIA-AI V3.0 华为认证人工智能工程师在线课程](https://ilearningx.huawei.com/portal/courses/HuaweiX+EBGTC00000530/about) | 课程包含：人工智能概述、机器学习和深度学习的相关知识，业界主流开发框架的使用发方法以及华为的全栈全场景AI战略所包含的Atlas计算平台，HiAI ，EI等内容。 建议你在开始本课程前，先学习 《Python 编程基础》、《AI 数学基础》这两门课程。先夯实关于Python、AI相关的数学基础，再学习本课程，更加容易上手。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [业界主流AI开发框架](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE154+Self-paced/about?ticket=ST-92010419-DeaZJisnzZrhs2h0LXSBbygR-sso&locale=zh-cn) | HCIA-AI V3.0系列课程。本课程将主要讲述为什么是深度学习框架、深度学习框架的优势并介绍二种深度学习 框架，包括Pytorch和TensorFlow。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI技术领域课程--机器学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE086+Self-paced/about?ticket=ST-92007091-zoz72p7waaPiD5K6Wa3duhIM-sso&locale=zh-cn) | 本课程将会讲解机器学习相关算法，包括监督学习，无监督学习，集成算法等。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI技术领域课程--深度学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE088+Self-paced/about?ticket=ST-92005529-3ih6QlstCXKBmGSbtEM501DM-sso&locale=zh-cn) | 本课程将会探讨深度学习中的基础理论、算法、使用方法、技巧与不同的深度学习模型。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI技术领域课程--图网络](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE082+Self-paced/about?ticket=ST-92011843-iHCWmXTmmBmuEBMNe1sPySmT-sso&locale=zh-cn) | 图网络是表征学习中兴起的一个新方向，为解决逻辑推理问题带来了新的可能的方向。本课程所讲的图网络主要包含对于图嵌入的与图神经网络的介绍 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI技术应用场景--知识图谱](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE089+Self-paced/about?ticket=ST-92012133-Ahg61DdP5Ugv9bZYpBdS7tTs-sso&locale=zh-cn) | 本课程从知识图谱的概述，知识抽取，知识表示，知识融合，知识加工和知识存放等方面对知识图谱从零到一的构建进行了全面的介绍。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI技术领域课程--生成对抗网络](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE085+Self-paced/about?ticket=ST-92004341-6NUNs29NLR2Svgs0ZJSViY3Q-sso&locale=zh-cn) | 生成对抗网络（Generative Adversarial Network，简称GAN）是非监督式学习的一种方法，通过让两个神经网络相互博弈的方式进行学习，迅速成为了最具前景的深度学习模型。 |      |
+|      | ![](./docs/svg/huawei_cloud.png) | [AI技术领域课程--强化学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE073+Self-paced/about?ticket=ST-92006847-jbYUdtO5p5xamFJpHn3K9ezb-sso&locale=zh-cn) | 强化学习是机器学习中与监督学习、无监督学习、半监督学习并驾齐驱的四大算法思想之一，强化学习思想接近人类的学习过程，且在游戏、自动驾驶、电商等领域获得了极大的成功。 |      |
+|      |                                  |                                                              |                                                              |      |
 
 
 
@@ -210,12 +212,12 @@ https://www.nvidia.com/en-us/training/online/
 | 序号 |                               | 阶段 |                             课程                             | 说明                                                         | 其他 |
 | :--: | :---------------------------: | :--: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
 |  1   | ![](./docs/svg/mindspore.png) | 初级 | [MindSpore入门学习](https://www.mindspore.cn/resources/courses/list?id=47) | 课程从基本数字识别到张量、数据处理、创建网络、模型创建等，全方位助力新手入门，让您一小时上手MindSpore！(共1个系列9节课) |      |
-|      | ![](./docs/svg/mindspore.png) | 中级 | [进阶教程](https://www.mindspore.cn/resources/courses/list?id=48#title124) | 本次进阶课程中基于基础课程知识的学习，进一步介绍了线性拟合、数据处理、网络构建和数据评估等四个方面的知识，带你深入了解MindSpore~(共4个系列21节课) |      |
-|      | ![](./docs/svg/mindspore.png) | 中级 | [深度学习理论](https://www.mindspore.cn/resources/courses/list?id=48#title57) | 本课程是一门侧重在深度学习相关理论基础的课程，并对深度学习的典型模型框架的基本原理进行了介绍。(共1个系列15节课) |      |
-|      | ![](./docs/svg/mindspore.png) | 中级 | [实例讲解](https://www.mindspore.cn/resources/courses/list?id=48#title120) | 本课程通过多种实例演示MindSpore实践和使用方法(共1个系列6节课) |      |
-|      | ![](./docs/svg/mindspore.png) | 高级 | [UCL汪军教授课程](https://www.mindspore.cn/resources/courses/list?id=49#title87) | 汪军，伦敦大学学院(UCL)计算机系教授，阿兰·图灵研究所 Turing Fellow，华为诺亚方舟实验室决策推理首席顾问。(共1个系列48节课) |      |
-|      | ![](./docs/svg/mindspore.png) | 其他 | [在线公开课](https://www.mindspore.cn/resources/courses/list?id=50#title54) | 免费开课，主题讲解，在线答疑，项目实践。(共2个系列12节课)    |      |
-|      | ![](./docs/svg/mindspore.png) | 其他 | [两日集训营](https://www.mindspore.cn/resources/courses/list?id=50#title55) | 结合新版本发布特性，讲解实践流程，不定期开课。(共7个系列38节课) |      |
+|  2   | ![](./docs/svg/mindspore.png) | 中级 | [进阶教程](https://www.mindspore.cn/resources/courses/list?id=48#title124) | 本次进阶课程中基于基础课程知识的学习，进一步介绍了线性拟合、数据处理、网络构建和数据评估等四个方面的知识，带你深入了解MindSpore~(共4个系列21节课) |      |
+|  3   | ![](./docs/svg/mindspore.png) | 中级 | [深度学习理论](https://www.mindspore.cn/resources/courses/list?id=48#title57) | 本课程是一门侧重在深度学习相关理论基础的课程，并对深度学习的典型模型框架的基本原理进行了介绍。(共1个系列15节课) |      |
+|  4   | ![](./docs/svg/mindspore.png) | 中级 | [实例讲解](https://www.mindspore.cn/resources/courses/list?id=48#title120) | 本课程通过多种实例演示MindSpore实践和使用方法(共1个系列6节课) |      |
+|  5   | ![](./docs/svg/mindspore.png) | 高级 | [UCL汪军教授课程](https://www.mindspore.cn/resources/courses/list?id=49#title87) | 汪军，伦敦大学学院(UCL)计算机系教授，阿兰·图灵研究所 Turing Fellow，华为诺亚方舟实验室决策推理首席顾问。(共1个系列48节课) |      |
+|  6   | ![](./docs/svg/mindspore.png) | 其他 | [在线公开课](https://www.mindspore.cn/resources/courses/list?id=50#title54) | 免费开课，主题讲解，在线答疑，项目实践。(共2个系列12节课)    |      |
+|  7   | ![](./docs/svg/mindspore.png) | 其他 | [两日集训营](https://www.mindspore.cn/resources/courses/list?id=50#title55) | 结合新版本发布特性，讲解实践流程，不定期开课。(共7个系列38节课) |      |
 |      |                               |      |                                                              |                                                              |      |
 |      |                               |      |                                                              |                                                              |      |
 
@@ -295,8 +297,8 @@ https://www.nvidia.com/en-us/training/online/
 |  6   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 初级 | [AI模型自动化压缩工具PaddleSlim](https://aistudio.baidu.com/aistudio/education/group/info/26913) | PaddleSlim推出全新自动化压缩工具（Auto Compression Toolkit, ACT），旨在通过Source-Free的方式，自动对预测模型进行压缩，压缩后模型可直接部署应用。 |      |
 |  7   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 中级 | [2021AI快车道服务器部署课](https://aistudio.baidu.com/aistudio/course/introduce/19084) | 详细解读如何在上述各种不同GPU硬件场景下如何利用飞桨框架更便利的启用TensorRT |      |
 |  8   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 中级 | [2021AI快车道端侧部署系列课](https://aistudio.baidu.com/aistudio/course/introduce/22690) | 百度飞桨端侧AI部署月，带你全面解析飞桨端侧部署               |      |
-|  9   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> |      | [使用 PaddlePaddle 与 TensorRT 完成深度学习优化与部署](https://aistudio.baidu.com/aistudio/education/group/info/27647) | 使用 PaddlePaddle 与 TensorRT 完成深度学习优化与部署         |      |
-|  10  | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> |      | [AI快车道2020-昆仑芯片](https://aistudio.baidu.com/aistudio/education/group/info/1982) | “百度昆仑”-中国第一款云端全功能AI（人工智能）芯片，也是业内设计算力最高的AI芯片。它的运算能力比最新基于FPGA的AI加速器，性能提升了近30倍。 |      |
+|  9   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 中级 | [使用 PaddlePaddle 与 TensorRT 完成深度学习优化与部署](https://aistudio.baidu.com/aistudio/education/group/info/27647) | 使用 PaddlePaddle 与 TensorRT 完成深度学习优化与部署         |      |
+|  10  | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 中级 | [AI快车道2020-昆仑芯片](https://aistudio.baidu.com/aistudio/education/group/info/1982) | “百度昆仑”-中国第一款云端全功能AI（人工智能）芯片，也是业内设计算力最高的AI芯片。它的运算能力比最新基于FPGA的AI加速器，性能提升了近30倍。 |      |
 |  11  | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 高级 | [深度学习框架开发指南-飞桨黑客松2.0](https://aistudio.baidu.com/aistudio/education/group/info/25520) | 全新一期飞桨黑客松系列课程，从 GitHub Git 操作开始，带你快速上手深度学习框架开发 |      |
 |  12  | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 高级 | [深度学习框架开发指南-飞桨黑客松3.0](https://aistudio.baidu.com/aistudio/education/group/info/26351) | 深度学习框架开发指南-飞桨黑客松3.0                           |      |
 |  13  | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 高级 | [深度学习开发指南——黑客松4.0](https://aistudio.baidu.com/aistudio/education/group/info/28186) | 深度学习开发指南——黑客松4.0                                  |      |
@@ -316,16 +318,16 @@ https://www.nvidia.com/en-us/training/online/
 
 ### 7、AI行业案例
 
-| 序号 |      |   阶段   |                             课程                             | 说明                                                         | 其他 |
-| :--: | :--: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|  1   |      | 新手入门 | [EasyDL智慧零售商品销量预测方案解析](https://aistudio.baidu.com/aistudio/course/introduce/25773) | 智慧零售销量预测应用方案解析，-让零售更高效 让成本更可控-    |      |
-|  2   |      | 新手入门 | [EasyDL电商UGC海量图像分类](https://aistudio.baidu.com/aistudio/course/introduce/25754) | 电商UGC数据识别应用方案解析                                  |      |
-|  3   |      | 新手入门 | [人工智能技术趋势与产业发展](https://aistudio.baidu.com/aistudio/course/introduce/25789) | 分享主题演讲《人工智能技术趋势与产业发展——让强大的AI人人可用》 |      |
-|  4   |      |   初级   | [零门槛搞懂基于大模型的AIGC应用及技术要点](https://aistudio.baidu.com/aistudio/course/introduce/26723) | 7小时上车热门赛道AIGC 百度专家团队直播带学 零代码畅玩大模型  |      |
-|  5   |      |   初级   | [飞桨智慧金融行业系列课程](https://aistudio.baidu.com/aistudio/course/introduce/26849) | 覆盖金融行业智能风控、智能运营、智能营销、智能客服4大主流场景，10+产业实践范例 |      |
-|  6   |      |   中级   | [飞桨产业实践范例库](https://aistudio.baidu.com/aistudio/education/group/info/24994) | 飞桨产业实践范例库（Industrial Applications of PaddlePaddle）为飞桨官方打造，包含智慧城市、智能制造、智慧金融、泛交通、泛互联网、智慧农业等多个领域AI典型产业应用案例投射，直达产业落地的“自动导航”。 |      |
-|  7   |      |   中级   | [飞桨产业实践范例](https://aistudio.baidu.com/aistudio/course/introduce/25314) | 飞桨产业实践范例：典型产业应用案例投射，直达产业落地的“自动导航” |      |
-|      |      |          |                                                              |                                                              |      |
+| 序号 |                                                         |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :-----------------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  1   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 新手入门 | [EasyDL智慧零售商品销量预测方案解析](https://aistudio.baidu.com/aistudio/course/introduce/25773) | 智慧零售销量预测应用方案解析，-让零售更高效 让成本更可控-    |      |
+|  2   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 新手入门 | [EasyDL电商UGC海量图像分类](https://aistudio.baidu.com/aistudio/course/introduce/25754) | 电商UGC数据识别应用方案解析                                  |      |
+|  3   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> | 新手入门 | [人工智能技术趋势与产业发展](https://aistudio.baidu.com/aistudio/course/introduce/25789) | 分享主题演讲《人工智能技术趋势与产业发展——让强大的AI人人可用》 |      |
+|  4   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> |   初级   | [零门槛搞懂基于大模型的AIGC应用及技术要点](https://aistudio.baidu.com/aistudio/course/introduce/26723) | 7小时上车热门赛道AIGC 百度专家团队直播带学 零代码畅玩大模型  |      |
+|  5   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> |   初级   | [飞桨智慧金融行业系列课程](https://aistudio.baidu.com/aistudio/course/introduce/26849) | 覆盖金融行业智能风控、智能运营、智能营销、智能客服4大主流场景，10+产业实践范例 |      |
+|  6   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> |   中级   | [飞桨产业实践范例库](https://aistudio.baidu.com/aistudio/education/group/info/24994) | 飞桨产业实践范例库（Industrial Applications of PaddlePaddle）为飞桨官方打造，包含智慧城市、智能制造、智慧金融、泛交通、泛互联网、智慧农业等多个领域AI典型产业应用案例投射，直达产业落地的“自动导航”。 |      |
+|  7   | <img src="./docs/svg/PP_logo.png" style="zoom: 33%;" /> |   中级   | [飞桨产业实践范例](https://aistudio.baidu.com/aistudio/course/introduce/25314) | 飞桨产业实践范例：典型产业应用案例投射，直达产业落地的“自动导航” |      |
+|      |                                                         |          |                                                              |                                                              |      |
 
 ### 8、AI快车道
 
@@ -421,14 +423,14 @@ https://www.nvidia.com/en-us/training/online/
 
 ### 3、AI工程师
 
-| 序号 |                                               |   阶段   |                             课程                             | 说明                                                         | 其他 |
-| :--: | :-------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|  18  |          ![](./docs/svg/pandas.svg)           | AI工程师 | [**数据挖掘类**-比赛](https://tianchi.aliyun.com/course/322?spm=5176.21206777.J_3641663050.18.698717c9js5gSD) | 汇总了天池平台**数据挖掘类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  19  |                                               | AI工程师 | [**自然语言处理类**-比赛](https://tianchi.aliyun.com/course/318?spm=5176.21206777.J_3641663050.19.698717c9js5gSD) | 汇总了天池平台**自然语言类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  20  |      ![](./docs/svg/computer-vision.svg)      | AI工程师 | [**计算机视觉类**-比赛](https://tianchi.aliyun.com/course/319?spm=5176.21206777.J_3641663050.20.698717c9js5gSD) | 汇总了天池平台**计算机视觉类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  21  |                                               | AI工程师 | [**程序设计类**-比赛](https://tianchi.aliyun.com/course/320?spm=5176.21206777.J_3641663050.21.698717c9js5gSD) | 汇总了天池平台**程序设计类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  22  |    ![](./docs/svg/intro-to-ai-ethics.svg)     | AI工程师 | [**创新应用类**-比赛](https://tianchi.aliyun.com/course/321?spm=5176.21206777.J_3641663050.22.698717c9js5gSD) | 汇总了天池平台**创新应用类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
-|  23  |                                               |          |                                                              |                                                              |      |
+| 序号 |                                        |   阶段   |                             课程                             | 说明                                                         | 其他 |
+| :--: | :------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
+|  18  |       ![](./docs/svg/pandas.svg)       | AI工程师 | [**数据挖掘类**-比赛](https://tianchi.aliyun.com/course/322?spm=5176.21206777.J_3641663050.18.698717c9js5gSD) | 汇总了天池平台**数据挖掘类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  19  |       ![](./docs/svg/python.svg)       | AI工程师 | [**自然语言处理类**-比赛](https://tianchi.aliyun.com/course/318?spm=5176.21206777.J_3641663050.19.698717c9js5gSD) | 汇总了天池平台**自然语言类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  20  |  ![](./docs/svg/computer-vision.svg)   | AI工程师 | [**计算机视觉类**-比赛](https://tianchi.aliyun.com/course/319?spm=5176.21206777.J_3641663050.20.698717c9js5gSD) | 汇总了天池平台**计算机视觉类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  21  |       ![](./docs/svg/python.svg)       | AI工程师 | [**程序设计类**-比赛](https://tianchi.aliyun.com/course/320?spm=5176.21206777.J_3641663050.21.698717c9js5gSD) | 汇总了天池平台**程序设计类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  22  | ![](./docs/svg/intro-to-ai-ethics.svg) | AI工程师 | [**创新应用类**-比赛](https://tianchi.aliyun.com/course/321?spm=5176.21206777.J_3641663050.22.698717c9js5gSD) | 汇总了天池平台**创新应用类**相关的大赛视频，包括专家分享、决赛答辩、颁奖 |      |
+|  23  |                                        |          |                                                              |                                                              |      |
 
 ### 4、AI科学家
 
@@ -607,28 +609,28 @@ https://www.nvidia.com/en-us/training/online/
 
 | 序号 |                                                              |   阶段    |                             课程                             | 说明                                                         | 其他 |
 | :--: | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|  1   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 理论基础  | [统计学习](https://cloud.tencent.com/edu/learning/course-2362) | 统计学习的在线文档                                           |      |
-|  2   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [进化算法Evolutionary Algorithms](https://cloud.tencent.com/edu/learning/course-1525) | 本课程首先介绍了进化算法的概念和范畴，并展示了一些使用进化算法实现的项目的效果；然后开始讲解第一种进化算法——遗传算法，通过句子配对、旅行商人等案例展示了遗传算法不同构造和搭配方式，同时讲解了遗传算法的进化版本——微生物遗传算法的原理；接着介绍了进化策略算法，包括它与遗传算法的异同、(1+1)-ES、Natural ES等内容；最后讲解了如何将进化算法应用到神经网络中。 |      |
-|  3   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [机器学习Scikit-Learn教学](https://cloud.tencent.com/edu/learning/course-1545) | 本课程首先简单介绍了什么是机器学习、什么是Scikit-learn以及如何安装Scikit-learn；然后讲解了如何选择合适的机器学习方法，并以iris数据集为例展示了Scikit-learn的通用学习模式，同时分享了一些有用的数据集及其用法；接着是Scikit-learn模型的讲解，包括其常用属性和功能；最后结合案例详细讲解了如何进行数据标准化，以及如何通过交叉验证选择合适的模型。 |      |
-|  4   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [Xgboost使用指南](https://cloud.tencent.com/edu/learning/course-2414) | Xgboost 使用指南(在线文档)                                   |      |
-|  5   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [LightGBM使用指南](https://cloud.tencent.com/edu/learning/course-2439) | LightGBM 使用指南(在线文档)                                  |      |
-|  6   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [Pytorch tutorials神经网络](https://cloud.tencent.com/edu/learning/course-1529) | 本课程首先介绍了什么是PyTorch以及如何安装它，接着讲解了PyTorch神经网络相关的基础知识，比如：变量、激励函数等；然后展示了如何建造神经网络，包括回归和分类两种类型；接着讲解了一些高级神经网络结构，包括卷积神经网络CNN、循环神经网络RNN、自编码AutoEncoder、DQN加强学习、生成对抗网络GAN等，并给出了具体的实现案例；最后是PyTorch相关的高阶内容，包括：GPU加速运算、过拟合及缓解、批标准化等。 |      |
-|  7   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [知乎KOL阿萨姆：机器学习实践经验分享](https://cloud.tencent.com/edu/learning/course-1041-822) | 本课程围绕机器学习的实践展开，首先分享了一些使用机器学习的经验和建议，包含确定最小预测单元、确定最优框架、依赖性分析、从回归到分类、舍弃和切分数据等；然后详细讲解了如何选择并处理数据、如何选择和评估模型、如何进行模型调试和提升，并对每个主题给出了相应的流程或建议；最后对一些常见的问题做了解释，比如如何快速掌握机器学习基础知识、TensorFlow对普通机器学习使用者的意义、神经网络是否可以代替据册数模型等。 |      |
-|  8   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 强化学习  | [强化学习(Reinforcement Learning)Python教学](https://cloud.tencent.com/edu/learning/course-1527) | 本课程首先介绍了什么是强化学习，并展示了使用强化学习可以实现的效果；然后结合具体案例分别展示了Q Learning、Sarsa、将Q Learining优势与神经网络结合的DQN、Policy Gradients等算法的原理和实现，一般包含算法更新和思维决策两个环节；最后，扩展讲解了Actor Critic、DDPG、A3C、PPO/DPPO等强化学习算法。 |      |
-|  9   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum 的介绍、安装与部署](https://cloud.tencent.com/edu/learning/course-2840-53907) | 快速上手 Greenplum 系列课程之一Greenplum 的介绍、安装与部署  |      |
-|  10  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum生态与工具](https://cloud.tencent.com/edu/learning/course-3118-56023) | 快速上手Greenplum系列课程-生态与工具                         |      |
-|  11  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum备份、安全与高可用](https://cloud.tencent.com/edu/learning/course-2968-55172) | 快速上手Greenplum系列课程-Greenplum备份、安全与高可用        |      |
-|  12  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [基于 Greenplum 的机器学习算法与实践-数据分析扩展语言](https://cloud.tencent.com/edu/learning/course-2917-54797) | 本课程将讲解数据分析拓展语言，包括R语言，Python语言等，并将结合实例介绍如何利用GreenplumR, plcontainer进行Greenplum中的数据分析。 |      |
-|  13  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum快速调优](https://cloud.tencent.com/edu/learning/course-3271-57101) | 快速上手Greenplum系列课程-Greenplum快速调优                  |      |
-|  14  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-机器学习的前世今生](https://cloud.tencent.com/edu/learning/course-2650-51312) | 本课程会讲解机器学习的历史发展脉络，当前进展，以及未来发展，以及机器学习需要的数学准备。 |      |
-|  15  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-朴素贝叶斯分类](https://cloud.tencent.com/edu/learning/course-2672-51861) | 本课程将结合例子讲解朴素贝叶斯的数学原理公式，以及在Greenplum MADlib中的实现。 |      |
-|  16  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-回归算法](https://cloud.tencent.com/edu/learning/course-2651-51319) | 本课程将介绍回归基本原理，结合MADlib介绍若干典型回归算法，包括Logistic回归，线性回归等。 |      |
-|  17  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-图算法](https://cloud.tencent.com/edu/learning/course-2881-54262) | 本课程将结合Greenplum机器学习库MADlib介绍大数据集上的图算法。 |      |
-|  18  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-基于树的分类](https://cloud.tencent.com/edu/learning/course-2714-52599) | 决策树（Decision Tree）是一种基本的分类与回归方法，当决策树用于分类时称为分类树，用于回归时称为回归树。本章节将讲解树的学习算法及思想，包括决策树和随机森林。 |      |
-|  19  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-非监督学习算法](https://cloud.tencent.com/edu/learning/course-2778-53393) | 本课程将通过一系列实例介绍Greenplum机器学习库MADlib中若干无监督学习算法及其实现k-means算法和关联规则的思路和实现。 |      |
-|  20  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-支持向量机](https://cloud.tencent.com/edu/learning/course-2754-53285) | 本课程将介绍 Greenplum 机器学习库 MADlib 中的 SVM 回归算法。 |      |
-|  21  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-时间序列经典算法](https://cloud.tencent.com/edu/learning/course-2839-53897) | 本课程将结合实例 Greenplum 机器学习库 MADlib 介绍基于时间序列的分析 ARIMA。 |      |
-|  22  | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-人工神经网路与深度学习](https://cloud.tencent.com/edu/learning/course-2838-53884) | 本课程将理论加实例介绍 Keras 及图片预处理。                  |      |
+|  1   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 理论基础  | [统计学习](https://cloud.tencent.com/edu/learning/course-2362) | 统计学习的在线文档                                           |      |
+|  2   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [进化算法Evolutionary Algorithms](https://cloud.tencent.com/edu/learning/course-1525) | 本课程首先介绍了进化算法的概念和范畴，并展示了一些使用进化算法实现的项目的效果；然后开始讲解第一种进化算法——遗传算法，通过句子配对、旅行商人等案例展示了遗传算法不同构造和搭配方式，同时讲解了遗传算法的进化版本——微生物遗传算法的原理；接着介绍了进化策略算法，包括它与遗传算法的异同、(1+1)-ES、Natural ES等内容；最后讲解了如何将进化算法应用到神经网络中。 |      |
+|  3   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [机器学习Scikit-Learn教学](https://cloud.tencent.com/edu/learning/course-1545) | 本课程首先简单介绍了什么是机器学习、什么是Scikit-learn以及如何安装Scikit-learn；然后讲解了如何选择合适的机器学习方法，并以iris数据集为例展示了Scikit-learn的通用学习模式，同时分享了一些有用的数据集及其用法；接着是Scikit-learn模型的讲解，包括其常用属性和功能；最后结合案例详细讲解了如何进行数据标准化，以及如何通过交叉验证选择合适的模型。 |      |
+|  4   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [Xgboost使用指南](https://cloud.tencent.com/edu/learning/course-2414) | Xgboost 使用指南(在线文档)                                   |      |
+|  5   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [LightGBM使用指南](https://cloud.tencent.com/edu/learning/course-2439) | LightGBM 使用指南(在线文档)                                  |      |
+|  6   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [Pytorch tutorials神经网络](https://cloud.tencent.com/edu/learning/course-1529) | 本课程首先介绍了什么是PyTorch以及如何安装它，接着讲解了PyTorch神经网络相关的基础知识，比如：变量、激励函数等；然后展示了如何建造神经网络，包括回归和分类两种类型；接着讲解了一些高级神经网络结构，包括卷积神经网络CNN、循环神经网络RNN、自编码AutoEncoder、DQN加强学习、生成对抗网络GAN等，并给出了具体的实现案例；最后是PyTorch相关的高阶内容，包括：GPU加速运算、过拟合及缓解、批标准化等。 |      |
+|  7   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 机器学习  | [知乎KOL阿萨姆：机器学习实践经验分享](https://cloud.tencent.com/edu/learning/course-1041-822) | 本课程围绕机器学习的实践展开，首先分享了一些使用机器学习的经验和建议，包含确定最小预测单元、确定最优框架、依赖性分析、从回归到分类、舍弃和切分数据等；然后详细讲解了如何选择并处理数据、如何选择和评估模型、如何进行模型调试和提升，并对每个主题给出了相应的流程或建议；最后对一些常见的问题做了解释，比如如何快速掌握机器学习基础知识、TensorFlow对普通机器学习使用者的意义、神经网络是否可以代替据册数模型等。 |      |
+|  8   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 强化学习  | [强化学习(Reinforcement Learning)Python教学](https://cloud.tencent.com/edu/learning/course-1527) | 本课程首先介绍了什么是强化学习，并展示了使用强化学习可以实现的效果；然后结合具体案例分别展示了Q Learning、Sarsa、将Q Learining优势与神经网络结合的DQN、Policy Gradients等算法的原理和实现，一般包含算法更新和思维决策两个环节；最后，扩展讲解了Actor Critic、DDPG、A3C、PPO/DPPO等强化学习算法。 |      |
+|  9   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum 的介绍、安装与部署](https://cloud.tencent.com/edu/learning/course-2840-53907) | 快速上手 Greenplum 系列课程之一Greenplum 的介绍、安装与部署  |      |
+|  10  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum生态与工具](https://cloud.tencent.com/edu/learning/course-3118-56023) | 快速上手Greenplum系列课程-生态与工具                         |      |
+|  11  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum备份、安全与高可用](https://cloud.tencent.com/edu/learning/course-2968-55172) | 快速上手Greenplum系列课程-Greenplum备份、安全与高可用        |      |
+|  12  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [基于 Greenplum 的机器学习算法与实践-数据分析扩展语言](https://cloud.tencent.com/edu/learning/course-2917-54797) | 本课程将讲解数据分析拓展语言，包括R语言，Python语言等，并将结合实例介绍如何利用GreenplumR, plcontainer进行Greenplum中的数据分析。 |      |
+|  13  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> |  大数据   | [快速上手Greenplum系列课程-Greenplum快速调优](https://cloud.tencent.com/edu/learning/course-3271-57101) | 快速上手Greenplum系列课程-Greenplum快速调优                  |      |
+|  14  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-机器学习的前世今生](https://cloud.tencent.com/edu/learning/course-2650-51312) | 本课程会讲解机器学习的历史发展脉络，当前进展，以及未来发展，以及机器学习需要的数学准备。 |      |
+|  15  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-朴素贝叶斯分类](https://cloud.tencent.com/edu/learning/course-2672-51861) | 本课程将结合例子讲解朴素贝叶斯的数学原理公式，以及在Greenplum MADlib中的实现。 |      |
+|  16  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-回归算法](https://cloud.tencent.com/edu/learning/course-2651-51319) | 本课程将介绍回归基本原理，结合MADlib介绍若干典型回归算法，包括Logistic回归，线性回归等。 |      |
+|  17  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-图算法](https://cloud.tencent.com/edu/learning/course-2881-54262) | 本课程将结合Greenplum机器学习库MADlib介绍大数据集上的图算法。 |      |
+|  18  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-基于树的分类](https://cloud.tencent.com/edu/learning/course-2714-52599) | 决策树（Decision Tree）是一种基本的分类与回归方法，当决策树用于分类时称为分类树，用于回归时称为回归树。本章节将讲解树的学习算法及思想，包括决策树和随机森林。 |      |
+|  19  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-非监督学习算法](https://cloud.tencent.com/edu/learning/course-2778-53393) | 本课程将通过一系列实例介绍Greenplum机器学习库MADlib中若干无监督学习算法及其实现k-means算法和关联规则的思路和实现。 |      |
+|  20  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-支持向量机](https://cloud.tencent.com/edu/learning/course-2754-53285) | 本课程将介绍 Greenplum 机器学习库 MADlib 中的 SVM 回归算法。 |      |
+|  21  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-时间序列经典算法](https://cloud.tencent.com/edu/learning/course-2839-53897) | 本课程将结合实例 Greenplum 机器学习库 MADlib 介绍基于时间序列的分析 ARIMA。 |      |
+|  22  | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 大数据&ML | [基于 Greenplum 的机器学习算法与实践-人工神经网路与深度学习](https://cloud.tencent.com/edu/learning/course-2838-53884) | 本课程将理论加实例介绍 Keras 及图片预处理。                  |      |
 |      |                                                              |           |                                                              |                                                              |      |
 |      |                                                              |           |                                                              |                                                              |      |
 
@@ -636,10 +638,10 @@ https://www.nvidia.com/en-us/training/online/
 
 | 序号 |                                                              |   阶段   |                             课程                             | 说明                                                         | 其他 |
 | :--: | :----------------------------------------------------------: | :------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ---- |
-|  1   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [硅谷技术大牛Siraj带你入门深度学习](https://cloud.tencent.com/edu/learning/course-1040) | 本课程首先讲解了机器学习、神经网络和深度学习的概念和关系，并展示了如何利用监督学习实现根据大脑重量预测其对应体重；然后介绍了神经网络的架构和类型，并展示了如何使用TFLearn搭建神经网络实现电影数据情感分类器；接着讲解了一些深度学习所需要的数学知识，包含线性代数、统计学和数值计算方法等，同时还讲解了数据集预处理的流程和方法；最后展示了几个有趣的案例，比如图像分类器、股市变动预测、艺术作品和音乐生成等。 |      |
-|  2   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [麻省理工学院公开课6.S094：深度学习与自动驾驶](https://cloud.tencent.com/edu/learning/course-1034) | 本课程将介绍一些深度学习的方法，比如卷积神经网络CNN、循环神经网络RNN等，并学习如何利用这些方法来帮助提高自动驾驶的各个组件，包括知觉、视觉、定位、映射、控制规划、驾驶状态检测等。同时，课程中包含两个实战项目，第一个是“DeepTraffic”，它的目的是通过控制和设计神经网络的各种参数，来控制模拟小车的驾驶；第二个项目是“DeepTesla”，它的目的是使用端到端学习，将特斯拉汽车驾驶中关于前行道路的数据放入卷积神经网络，以预测汽车的转向角。 |      |
-|  3   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [Pytorch Handbook](https://cloud.tencent.com/edu/learning/course-2348) | PyTorch Handbook(在线文档)                                   |      |
-|  4   | <img src="/media/linxu/LinXuHub/00.MyGithub/awesome-road-map/docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [英特尔OpenVINO工具包新特性介绍](https://cloud.tencent.com/edu/learning/course-2731) | OpenVINO是英特尔提供的AI开源工具包，本课程将介绍深度学习的突破和基础，部署深度学习的挑战以及英特尔OpenVINO在2020年发布的2020.1和2020.2新功能特性。 |      |
+|  1   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [硅谷技术大牛Siraj带你入门深度学习](https://cloud.tencent.com/edu/learning/course-1040) | 本课程首先讲解了机器学习、神经网络和深度学习的概念和关系，并展示了如何利用监督学习实现根据大脑重量预测其对应体重；然后介绍了神经网络的架构和类型，并展示了如何使用TFLearn搭建神经网络实现电影数据情感分类器；接着讲解了一些深度学习所需要的数学知识，包含线性代数、统计学和数值计算方法等，同时还讲解了数据集预处理的流程和方法；最后展示了几个有趣的案例，比如图像分类器、股市变动预测、艺术作品和音乐生成等。 |      |
+|  2   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [麻省理工学院公开课6.S094：深度学习与自动驾驶](https://cloud.tencent.com/edu/learning/course-1034) | 本课程将介绍一些深度学习的方法，比如卷积神经网络CNN、循环神经网络RNN等，并学习如何利用这些方法来帮助提高自动驾驶的各个组件，包括知觉、视觉、定位、映射、控制规划、驾驶状态检测等。同时，课程中包含两个实战项目，第一个是“DeepTraffic”，它的目的是通过控制和设计神经网络的各种参数，来控制模拟小车的驾驶；第二个项目是“DeepTesla”，它的目的是使用端到端学习，将特斯拉汽车驾驶中关于前行道路的数据放入卷积神经网络，以预测汽车的转向角。 |      |
+|  3   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [Pytorch Handbook](https://cloud.tencent.com/edu/learning/course-2348) | PyTorch Handbook(在线文档)                                   |      |
+|  4   | <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:25%;" /> | 深度学习 | [英特尔OpenVINO工具包新特性介绍](https://cloud.tencent.com/edu/learning/course-2731) | OpenVINO是英特尔提供的AI开源工具包，本课程将介绍深度学习的突破和基础，部署深度学习的挑战以及英特尔OpenVINO在2020年发布的2020.1和2020.2新功能特性。 |      |
 |      |                                                              |          |                                                              |                                                              |      |
 
 ### 4、应用实战
