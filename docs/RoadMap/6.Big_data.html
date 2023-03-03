@@ -1,0 +1,922 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>6.Big Data &#8212; 计算机科学路线图</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/plot_directive.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <link rel="shortcut icon" href="../_static/panda.png"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="LearnList" href="../LearnList/index.html" />
+    <link rel="prev" title="5.Data Learning" href="5.Data_Engineering.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../_static/logo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">计算机科学路线图</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search the docs ..." aria-label="Search the docs ..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  目录
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="index.html">
+   Awesome-Road-Map
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2">
+    <a class="reference internal" href="1.Fundamentals.html">
+     1.Fundamentals
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="2.Data_Science.html">
+     2.Data Science
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="3.Machine_Learning.html">
+     3.Machine Learning
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="4.Deep_Learning.html">
+     4.Deep Learning
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="5.Data_Engineering.html">
+     5.Data Learning
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     6.Big Data
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../LearnList/index.html">
+   LearnList
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="simple">
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Theme by the <a href="https://ebp.jupyterbook.org">Executable Book Project</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/isLinXu/awesome-road-map"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/isLinXu/awesome-road-map/issues/new?title=Issue%20on%20page%20%2FRoadMap/6.Big_data.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/isLinXu/awesome-road-map/edit/master/RoadMap/6.Big_data.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="headerbtn__text-container">suggest edit</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../_sources/RoadMap/6.Big_data.md.txt"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   6.Big Data
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id1">
+   6、大数据(BIg data)
+  </a>
+  <ul class="visible nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#big-data-architectures">
+     6.1 大数据架构(BIg Data Architectures)
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#architectural-patterns-best-practices">
+       (1) 架构模式和最佳实践(Architectural Patterns &amp; Best Practices)
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#principles">
+     6.2 原则(Principles)
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#horizontal-vs-vertical-scaling">
+       (1) 水平竖直缩放(Horizontal vs Vertical Scaling)
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#apache-hadoop-mapreduce">
+         (2) Apache Hadoop- MapReduce
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#data-replication">
+         (3) 数据复制(Data Replication)
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#hadoop-name-data-noddes">
+         (4) 名称节点与数据节点(Hadoop Name &amp; Data Noddes)
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#job-task-tracker">
+         (5) 工作和任务跟踪器(Job &amp; Task Tracker)
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#tools">
+     6.3 工具(Tools)
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#check-the-awesome-big-data-list">
+       (1) Check the Awesome Big Data List
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#hadoop-large-data">
+       (2) Hadoop(Large Data)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#spark-in-memory">
+       (3) Spark(in memory)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#rapids-on-gpu">
+       (4) RAPIDS(On GPU)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#flume-scribe-for-unstruct-data">
+       (5) Flume,Scribe：For Unstruct Data
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#data-warehouse-with-hive">
+       (6) Data Warehouse with Hive
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#elastic-elk-stack">
+       (7) Elastic(ELK)Stack
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#avro">
+       (8) Avro
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#flink">
+       (9) Flink
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#numba">
+       (10) Numba
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#onnx">
+       (11) Onnx
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#openvino">
+       (12) OpenVINO
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#mlflow">
+       (13) MLFlow
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#kafka-ksql">
+       (14) Kafka &amp; KSQL
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#databases">
+       (15) Databases
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#cassandra">
+         1.Cassandra
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#mongodb-neo4j">
+         2.MongoDB,Neo4j
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#aws-sagemaker">
+         3.AWS SageMaker
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#google-ml-engine">
+         4.Google ML Engine
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#microsoft-azure-machine-learning-studio">
+         5.Microsoft Azure Machine Learning Studio
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#scalability">
+       (16) Scalability
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#zookeeper">
+         1.ZooKeeper
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#kubernetes">
+         2.Kubernetes
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#cloud-services">
+       (17) Cloud Services
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#awesome-production-ml">
+       (18) Awesome Production ML
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>6.Big Data</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#">
+   6.Big Data
+  </a>
+ </li>
+ <li class="toc-h1 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#id1">
+   6、大数据(BIg data)
+  </a>
+  <ul class="visible nav section-nav flex-column">
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#big-data-architectures">
+     6.1 大数据架构(BIg Data Architectures)
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#architectural-patterns-best-practices">
+       (1) 架构模式和最佳实践(Architectural Patterns &amp; Best Practices)
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#principles">
+     6.2 原则(Principles)
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#horizontal-vs-vertical-scaling">
+       (1) 水平竖直缩放(Horizontal vs Vertical Scaling)
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#apache-hadoop-mapreduce">
+         (2) Apache Hadoop- MapReduce
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#data-replication">
+         (3) 数据复制(Data Replication)
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#hadoop-name-data-noddes">
+         (4) 名称节点与数据节点(Hadoop Name &amp; Data Noddes)
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#job-task-tracker">
+         (5) 工作和任务跟踪器(Job &amp; Task Tracker)
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h2 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#tools">
+     6.3 工具(Tools)
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#check-the-awesome-big-data-list">
+       (1) Check the Awesome Big Data List
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#hadoop-large-data">
+       (2) Hadoop(Large Data)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#spark-in-memory">
+       (3) Spark(in memory)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#rapids-on-gpu">
+       (4) RAPIDS(On GPU)
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#flume-scribe-for-unstruct-data">
+       (5) Flume,Scribe：For Unstruct Data
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#data-warehouse-with-hive">
+       (6) Data Warehouse with Hive
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#elastic-elk-stack">
+       (7) Elastic(ELK)Stack
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#avro">
+       (8) Avro
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#flink">
+       (9) Flink
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#numba">
+       (10) Numba
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#onnx">
+       (11) Onnx
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#openvino">
+       (12) OpenVINO
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#mlflow">
+       (13) MLFlow
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#kafka-ksql">
+       (14) Kafka &amp; KSQL
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#databases">
+       (15) Databases
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#cassandra">
+         1.Cassandra
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#mongodb-neo4j">
+         2.MongoDB,Neo4j
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#aws-sagemaker">
+         3.AWS SageMaker
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#google-ml-engine">
+         4.Google ML Engine
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#microsoft-azure-machine-learning-studio">
+         5.Microsoft Azure Machine Learning Studio
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#scalability">
+       (16) Scalability
+      </a>
+      <ul class="nav section-nav flex-column">
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#zookeeper">
+         1.ZooKeeper
+        </a>
+       </li>
+       <li class="toc-h4 nav-item toc-entry">
+        <a class="reference internal nav-link" href="#kubernetes">
+         2.Kubernetes
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#cloud-services">
+       (17) Cloud Services
+      </a>
+     </li>
+     <li class="toc-h3 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#awesome-production-ml">
+       (18) Awesome Production ML
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section id="big-data">
+<h1>6.Big Data<a class="headerlink" href="#big-data" title="Permalink to this headline">#</a></h1>
+<hr class="docutils" />
+<p><img alt="" src="../_images/6.Big_data.png" /></p>
+</section>
+<hr class="docutils" />
+<section id="id1">
+<h1>6、大数据(BIg data)<a class="headerlink" href="#id1" title="Permalink to this headline">#</a></h1>
+<section id="big-data-architectures">
+<h2>6.1 大数据架构(BIg Data Architectures)<a class="headerlink" href="#big-data-architectures" title="Permalink to this headline">#</a></h2>
+<section id="architectural-patterns-best-practices">
+<h3>(1) 架构模式和最佳实践(Architectural Patterns &amp; Best Practices)<a class="headerlink" href="#architectural-patterns-best-practices" title="Permalink to this headline">#</a></h3>
+</section>
+</section>
+<section id="principles">
+<h2>6.2 原则(Principles)<a class="headerlink" href="#principles" title="Permalink to this headline">#</a></h2>
+<section id="horizontal-vs-vertical-scaling">
+<h3>(1) 水平竖直缩放(Horizontal vs Vertical Scaling)<a class="headerlink" href="#horizontal-vs-vertical-scaling" title="Permalink to this headline">#</a></h3>
+<section id="apache-hadoop-mapreduce">
+<h4>(2) Apache Hadoop- MapReduce<a class="headerlink" href="#apache-hadoop-mapreduce" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="data-replication">
+<h4>(3) 数据复制(Data Replication)<a class="headerlink" href="#data-replication" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="hadoop-name-data-noddes">
+<h4>(4) 名称节点与数据节点(Hadoop Name &amp; Data Noddes)<a class="headerlink" href="#hadoop-name-data-noddes" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="job-task-tracker">
+<h4>(5) 工作和任务跟踪器(Job &amp; Task Tracker)<a class="headerlink" href="#job-task-tracker" title="Permalink to this headline">#</a></h4>
+</section>
+</section>
+</section>
+<section id="tools">
+<h2>6.3 工具(Tools)<a class="headerlink" href="#tools" title="Permalink to this headline">#</a></h2>
+<section id="check-the-awesome-big-data-list">
+<h3>(1) Check the Awesome Big Data List<a class="headerlink" href="#check-the-awesome-big-data-list" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="hadoop-large-data">
+<h3>(2) Hadoop(Large Data)<a class="headerlink" href="#hadoop-large-data" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="spark-in-memory">
+<h3>(3) Spark(in memory)<a class="headerlink" href="#spark-in-memory" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="rapids-on-gpu">
+<h3>(4) RAPIDS(On GPU)<a class="headerlink" href="#rapids-on-gpu" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="flume-scribe-for-unstruct-data">
+<h3>(5) Flume,Scribe：For Unstruct Data<a class="headerlink" href="#flume-scribe-for-unstruct-data" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="data-warehouse-with-hive">
+<h3>(6) Data Warehouse with Hive<a class="headerlink" href="#data-warehouse-with-hive" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="elastic-elk-stack">
+<h3>(7) Elastic(ELK)Stack<a class="headerlink" href="#elastic-elk-stack" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="avro">
+<h3>(8) Avro<a class="headerlink" href="#avro" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="flink">
+<h3>(9) Flink<a class="headerlink" href="#flink" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="numba">
+<h3>(10) Numba<a class="headerlink" href="#numba" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="onnx">
+<h3>(11) Onnx<a class="headerlink" href="#onnx" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="openvino">
+<h3>(12) OpenVINO<a class="headerlink" href="#openvino" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="mlflow">
+<h3>(13) MLFlow<a class="headerlink" href="#mlflow" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="kafka-ksql">
+<h3>(14) Kafka &amp; KSQL<a class="headerlink" href="#kafka-ksql" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="databases">
+<h3>(15) Databases<a class="headerlink" href="#databases" title="Permalink to this headline">#</a></h3>
+<section id="cassandra">
+<h4>1.Cassandra<a class="headerlink" href="#cassandra" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="mongodb-neo4j">
+<h4>2.MongoDB,Neo4j<a class="headerlink" href="#mongodb-neo4j" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="aws-sagemaker">
+<h4>3.AWS SageMaker<a class="headerlink" href="#aws-sagemaker" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="google-ml-engine">
+<h4>4.Google ML Engine<a class="headerlink" href="#google-ml-engine" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="microsoft-azure-machine-learning-studio">
+<h4>5.Microsoft Azure Machine Learning Studio<a class="headerlink" href="#microsoft-azure-machine-learning-studio" title="Permalink to this headline">#</a></h4>
+</section>
+</section>
+<section id="scalability">
+<h3>(16) Scalability<a class="headerlink" href="#scalability" title="Permalink to this headline">#</a></h3>
+<section id="zookeeper">
+<h4>1.ZooKeeper<a class="headerlink" href="#zookeeper" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="kubernetes">
+<h4>2.Kubernetes<a class="headerlink" href="#kubernetes" title="Permalink to this headline">#</a></h4>
+</section>
+</section>
+<section id="cloud-services">
+<h3>(17) Cloud Services<a class="headerlink" href="#cloud-services" title="Permalink to this headline">#</a></h3>
+</section>
+<section id="awesome-production-ml">
+<h3>(18) Awesome Production ML<a class="headerlink" href="#awesome-production-ml" title="Permalink to this headline">#</a></h3>
+</section>
+</section>
+</section>
+
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="5.Data_Engineering.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">5.Data Learning</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="../LearnList/index.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">LearnList</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By isLinXu<br/>
+  
+      &copy; Copyright 2023, isLinXu.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
