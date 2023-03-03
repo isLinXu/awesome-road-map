@@ -20,11 +20,11 @@ awesome road map
 
 - **PDF file**：[pdf](./docs/pdf/Awesome-Road-Map.pdf)
 
-|  ![](./docs/img/1、基础知识(Fundamentals).png)   |    ![](./docs/img/2、数据科学(Data Science).png)    |  ![](./docs/img/3、机器学习(Machine Learning).png)  |
-| :----------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| [pdf](./docs/pdf/1、基础知识(Fundamentals).pdf)  |   [pdf](./docs/pdf/2、数据科学(Data Science).pdf)   | [pdf](./docs/pdf/3、机器学习(Machine Learning).pdf) |
-|  ![](./docs/img/4、深度学习(Deep Learning).png)  |  ![](./docs/img/5、数据工程(Data Engineering).png)  |       ![](./docs/img/6、大数据(BIg data).png)       |
-| [pdf](./docs/pdf/4、深度学习(Deep Learning).pdf) | [pdf](./docs/pdf/5、数据工程(Data Engineering).pdf) |      [pdf](./docs/pdf/6、大数据(BIg data).pdf)      |
+|  ![](./docs/img/1.Fundamentals.png)   |    ![](./docs/img/2.Data_Science.png)    |  ![](./docs/img/3.Machine_Learning.png)   |
+| :-----------------------------------: | :--------------------------------------: | :---------------------------------------: |
+| [pdf](./docs/pdf/1.Fundamentals.pdf)  |   [pdf](./docs/pdf/2.Data_Science.pdf)   | [pdf](./docs/pdf/3.Machine_Learning .pdf) |
+|  ![](./docs/img/4.Deep_Learning.png)  |  ![](./docs/img/5.Data_Engineering.png)  |      ![](./docs/img/6.Big_data.png)       |
+| [pdf](./docs/pdf/4.Deep_Learning.pdf) | [pdf](./docs/pdf/5.Data_Engineering.pdf) |     [pdf](./docs/pdf/6.Big_data.pdf)      |
 
 
 ---
