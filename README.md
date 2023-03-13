@@ -213,6 +213,34 @@ https://www.nvidia.com/en-us/training/online/
 |  23  | ![](./docs/svg/huawei_cloud.png) | [AI技术领域课程--强化学习](https://connect.huaweicloud.com/courses/learn/course-v1:HuaweiX+CBUCNXE073+Self-paced/about?ticket=ST-92006847-jbYUdtO5p5xamFJpHn3K9ezb-sso&locale=zh-cn) | 强化学习是机器学习中与监督学习、无监督学习、半监督学习并驾齐驱的四大算法思想之一，强化学习思想接近人类的学习过程，且在游戏、自动驾驶、电商等领域获得了极大的成功。 |      |
 |      |                                  |                                                              |                                                              |      |
 
+- https://edu.huaweicloud.com/programs
+
+### 华为云学习路径
+
+### 人工智能
+
+| 序号 |                                  |                             课程                             | 说明                 | 其他 |
+| :--: | -------------------------------- | :----------------------------------------------------------: | -------------------- | ---- |
+|  1   | ![](./docs/svg/huawei_cloud.png) | [AI专业学习路径](https://edu.huaweicloud.com/roadmap/Aiseries.html) | 不可错过的普惠AI课程 |      |
+|  2   | ![](./docs/svg/huawei_cloud.png) | [人工智能工程师学习路径](https://edu.huaweicloud.com/roadmap/ai-hcia.html) | HCIA-AI              |      |
+|  3   | ![](./docs/svg/huawei_cloud.png) | [企业人工智能开发高级工程师学习路径](https://edu.huaweicloud.com/roadmap/ai-ei-developer-hcip.html) | HCIP-AI EI Developer |      |
+|  4   |                                  |                                                              |                      |      |
+
+### 大数据
+
+| 序号 |                                  |                             课程                             | 说明                      | 其他 |
+| :--: | -------------------------------- | :----------------------------------------------------------: | ------------------------- | ---- |
+|  1   | ![](./docs/svg/huawei_cloud.png) | [大数据工程师学习路径](https://edu.huaweicloud.com/roadmap/bigdata-hcia.html) | HCIA-Big Data             |      |
+|  2   | ![](./docs/svg/huawei_cloud.png) | [大数据开发高级工程师学习路径](https://edu.huaweicloud.com/roadmap/bigdatadeveloper-hcip.html) | HCIP-Big Data Development |      |
+|  3   | ![](./docs/svg/huawei_cloud.png) | [数据仓库高级工程师学习路径](https://edu.huaweicloud.com/roadmap/olap-gaussdb-hcip.html) | HCIP-GaussDB-OLAP         |      |
+|  4   |                                  |                                                              |                           |      |
+
+### 物联网
+
+| 序号 |                                  |                             课程                             | 说明 | 其他 |
+| :--: | -------------------------------- | :----------------------------------------------------------: | ---- | ---- |
+|  1   | ![](./docs/svg/huawei_cloud.png) | [物联网高级开发工程师学习路径](https://edu.huaweicloud.com/roadmap/iotdeveloper-hcip.html) |      |      |
+|  2   | ![](./docs/svg/huawei_cloud.png) | [物联网工程师学习路径](https://edu.huaweicloud.com/roadmap/iot-hcia.html) |      |      |
 
 
 
