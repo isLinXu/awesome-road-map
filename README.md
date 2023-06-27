@@ -31,6 +31,16 @@ awesome road map
 | [pdf](./docs/pdf/4.Deep_Learning.pdf) | [pdf](./docs/pdf/5.Data_Engineering.pdf) |     [pdf](./docs/pdf/6.Big_data.pdf)     |
 
 
+
+
+
+
+
+<font size=5><center><b> Table of Leaderboards </b> </center></font>
+
+- [<img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft](#<img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft)
+- [<img src="./docs/svg/Meta_Platforms_Inc._logo.svg.png" style="zoom:10%;" />Meta(facebook)](#<img src="./docs/svg/Meta_Platforms_Inc._logo.svg.png" style="zoom:10%;" />Meta(facebook))
+
 ---
 
 ## <img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft
