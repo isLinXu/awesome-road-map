@@ -12,6 +12,29 @@ awesome road map
 ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/awesome-road-map.svg) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/awesome-road-map.svg) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/awesome-road-map.svg) ![GitHub followers](https://img.shields.io/github/followers/isLinXu.svg)
  [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/awesome-road-map)  ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/awesome-road-map.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/awesome-road-map)  ![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/awesome-road-map) ![GitHub](https://img.shields.io/github/license/isLinXu/awesome-road-map.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/awesome-road-map.svg)
 
+# List
+
+- [Read online](#Read-online)
+- [Road Map](#Road-Map)
+  - [Microsoft](#Microsoft)
+  - [Meta](#Meta)
+  - [Intel](#Intel)
+  - [Google](#Google)
+  - [Apple](#Apple)
+  - [Amazon](#Amazon)
+  - [NVIDIA](#NVIDIA)
+  - [Kaggle](#Kaggle)
+  - [HUAWEI-Cloud](#HUAWEI-Cloud)
+  - [HUAWEI-Mindspore](#HUAWEI-Mindspore)
+  - [Baidu-PaddlePaddle](#Baidu-PaddlePaddle)
+  - [Baidu-Bit](#Baidu-Bit)
+  - [Alibaba-TianChi](#Alibaba-TianChi)
+  - [Tencent-Cloud](#Alibaba-TianChi)
+  - [Mooc](#Mooc)
+  - [OpenL](#OpenL)
+
+---
+
 # Read online
 
 - [https://islinxu.github.io/awesome-road-map/](https://islinxu.github.io/awesome-road-map/)
@@ -34,16 +57,9 @@ awesome road map
 
 
 
-
-
-<font size=5><center><b> Table of Leaderboards </b> </center></font>
-
-- [<img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft](#<img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft)
-- [<img src="./docs/svg/Meta_Platforms_Inc._logo.svg.png" style="zoom:10%;" />Meta(facebook)](#<img src="./docs/svg/Meta_Platforms_Inc._logo.svg.png" style="zoom:10%;" />Meta(facebook))
-
 ---
 
-## <img src="./docs/svg/Microsoft_logo.svg.png" style="zoom:5%;" />Microsoft
+## Microsoft
 
 ---
 
@@ -81,7 +97,7 @@ awesome road map
 | 25            | Help Peter avoid the wolf! 🐺                               | [Reinforcement learning](https://microsoft.github.io/ML-For-Beginners/#/8-Reinforcement/README) | Reinforcement learning Gym                                   | [Python](https://microsoft.github.io/ML-For-Beginners/#/8-Reinforcement/2-Gym/README) | Dmitry                    |
 | Postscript    | Real-World ML scenarios and applications                   | [ML in the Wild](https://microsoft.github.io/ML-For-Beginners/#/9-Real-World/README) | Interesting and revealing real-world applications of classical ML | [Lesson](https://microsoft.github.io/ML-For-Beginners/#/9-Real-World/1-Applications/README) | Team                      |
 
-## <img src="./docs/svg/Meta_Platforms_Inc._logo.svg.png" style="zoom:10%;" />Meta(facebook)
+## Meta
 
 ---
 
@@ -93,7 +109,7 @@ awesome road map
 
 ![](./docs/pic/mate_ml_pipeline.png)
 
-## <img src="./docs/svg/Intel_logo.svg.png" style="zoom:10%;" />Intel
+## Intel
 
 - https://www.intel.cn/content/www/cn/zh/developer/topic-technology/artificial-intelligence/overview.html
 - https://www.intel.com/content/www/us/en/developer/learn/course-machine-learning.html
@@ -123,7 +139,7 @@ Learn the basic techniques and foundations of deep learning on modern Intel arch
 Explore the fundamentals of AI in this introductory course — without the math. (8 weeks)
 [Get Started](https://software.intel.com/content/www/us/en/develop/training/course-artificial-intelligence.html)
 
-## <img src="./docs/svg/Google_Logo.svg.png" style="zoom: 5%;" />Google
+## Google
 
 ---
 
@@ -133,7 +149,7 @@ Explore the fundamentals of AI in this introductory course — without the math.
 
   ![](./docs/pic/google_ai.png)
 
-## <img src="./docs/svg/Apple_logo_black.svg.png" style="zoom:5%;" />Apple
+## Apple
 
 ---
 
@@ -142,7 +158,7 @@ Explore the fundamentals of AI in this introductory course — without the math.
 
 ![](./docs/pic/apple_ai.png)
 
-## <img src="./docs/svg/Amazon_logo.svg.png" style="zoom:5%;" />Amazon
+## Amazon
 
 ---
 
@@ -151,7 +167,7 @@ Explore the fundamentals of AI in this introductory course — without the math.
 
 ![](./docs/pic/aws_logo.png)
 
-## <img src="./docs/svg/Nvidia_logo.svg.png" style="zoom: 5%;" />NVIDIA
+## NVIDIA
 
 ---
 
@@ -159,7 +175,7 @@ https://www.nvidia.com/en-us/training/online/
 
 ![](./docs/pic/nvidia_ai.png)
 
-## <img src="./docs/svg/kaggle-ar21.svg" style="zoom:50%;" />Kaggle
+## Kaggle
 
 ---
 
@@ -189,7 +205,8 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## ![](./docs/svg/huawei_cloud.png)HUAWEI-Cloud
+## HUAWEI-Cloud
+
 
 ---
 
@@ -255,7 +272,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## <img src="./docs/svg/mindspore.png" style="zoom:25%;" />HUAWEI-Mindspore
+## HUAWEI-Mindspore
 
 - https://www.mindspore.cn/resources/courses
 
@@ -271,7 +288,7 @@ https://www.nvidia.com/en-us/training/online/
 |      |                               |      |                                                              |                                                              |      |
 |      |                               |      |                                                              |                                                              |      |
 
-## <img src="./docs/svg/PP_logo.png" style="zoom:10%;" />Baidu-PaddlePaddle
+## Baidu-PaddlePaddle
 
 ---
 
@@ -429,13 +446,13 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## <img src="./docs/svg/Baidu.svg.png" style="zoom:25%;" />Baidu-Bit
+## Baidu-Bit
 
 - https://bit.baidu.com/index
 
 ![](./docs/pic/bit.png)
 
-## <img src="./docs/svg/tianchi_logo1.png" style="zoom:33%;" />Alibaba-TianChi
+## Alibaba-TianChi
 
 ----
 
@@ -500,7 +517,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## <img src="./docs/svg/aliyun_logo.png" style="zoom: 33%;" />Alibaba-Cloud
+## Alibaba-Cloud
 
 ### 1、Python学习路径
 
@@ -629,7 +646,7 @@ https://www.nvidia.com/en-us/training/online/
 | 第 6 讲：应用：产品推荐                  | 了解如何使用 PAI 构建推荐系统             | [开始学习](https://edu.alibabacloud.com/lesson_403_2289)    | [课程内容](https://edu.alibabacloud.com/lesson_403_2283) |
 | 测验                                     | 测试整个章节并获得认证                    | [测验](https://edu.alibabacloud.com/clouder/exam/intro/471) |                                                          |
 
-## <img src="./docs/svg/tencent-cloud-logo.png" style="zoom:15%;" />Tencent-Cloud
+## Tencent-Cloud
 
 ---
 
@@ -710,7 +727,7 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
-## <img src="./docs/svg/openl_logo.png" style="zoom:25%;" />OpenL
+## OpenL
 
 ---
 
