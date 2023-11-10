@@ -30,8 +30,17 @@ awesome road map
   - [Baidu-Bit](#baidu-bit)
   - [Alibaba-TianChi](#alibaba-tianchi)
   - [Tencent-Cloud](#alibaba-tianchi)
+  - [讯飞-AI大学堂](#讯飞-AI大学堂)
   - [Mooc](#mooc)
+  - [字节-火山引擎](#字节-火山引擎)
+  - [京东云](#京东云)
+  - [OpenBMB](#OpenBMB)
+  - [AI四小龙](#AI四小龙)
   - [OpenL](#openl)
+  - [国科大相关](#国科大相关)
+  - [幕课网](#幕课网)
+  - [蓝桥云课](#蓝桥云课)
+  - [学堂在线](#学堂在线)
 
 ---
 
@@ -765,19 +774,20 @@ https://www.nvidia.com/en-us/training/online/
 
 | 序号 |                       内容                        |                   链接                    |
 | :---: | :-----------------------------------------------: | :---------------------------------------: |
-|   1   |     OpenXLab**【浦源】**人工智能开源开放体系      |       https://openxlab.org.cn/home        |
-|   2   |       OpenGVLab**【浦视】**通用视觉技术体系       |      https://opengvlab.shlab.org.cn/      |
-|   3   |    OpenDILab**【浦策】**新一代开源决策智能平台    |        https://opendilab.net/home         |
-|   4   |      OpenXDLab**【浦画】**高质量数字内容平台      |       https://openxdlab.org.cn/home       |
-|   5   |       OpenXRLab**【浦实】**扩展现实开源平台       |       https://openxrlab.org.cn/home       |
-|   6   |    OpenDataLab**【浦数】**人工智能开放数据平台    |      https://opendatalab.org.cn/home      |
-|   7   |  OpenComputeLab**【浦算】**人工智能开放计算体系   |    https://opencomputelab.org.cn/home     |
-|   8   |  OpenEGLab**【蒲公英】**人工智能治理开放创新平台  |       http://www.openeglab.org.cn/        |
-|   9   | OpenInnoLab**【浦育】**青少年人工智能开放创新平台 | https://www.openinnolab.org.cn/pjedu/home |
+|   1   |     OpenXLab【浦源】人工智能开源开放体系      |       https://openxlab.org.cn/home        |
+|   2   |       OpenGVLab【浦视】通用视觉技术体系       |      https://opengvlab.shlab.org.cn/      |
+|   3   |    OpenDILab【浦策】新一代开源决策智能平台    |        https://opendilab.net/home         |
+|   4   |      OpenXDLab【浦画】高质量数字内容平台      |       https://openxdlab.org.cn/home       |
+|   5   |       OpenXRLab【浦实】扩展现实开源平台       |       https://openxrlab.org.cn/home       |
+|   6   |    OpenDataLab【浦数】人工智能开放数据平台    |      https://opendatalab.org.cn/home      |
+|   7   |  OpenComputeLab【浦算】人工智能开放计算体系   |    https://opencomputelab.org.cn/home     |
+|   8   |  OpenEGLab【蒲公英】人工智能治理开放创新平台  |       http://www.openeglab.org.cn/        |
+|   9   | OpenInnoLab【浦育】青少年人工智能开放创新平台 | https://www.openinnolab.org.cn/pjedu/home |
 
 OpenDataLab浦数人工智能开放数据平台、OpenComputeLab浦算人工智能开放计算体系、OpenEGLab蒲公英人工智能治理开放创新平台，以及OpenInnoLab浦育青少年人工智能开放创新平台
 - 旷世天元：https://www.megengine.org.cn/
-- 
+
+
 
 
 ## OpenL
