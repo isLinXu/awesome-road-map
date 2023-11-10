@@ -717,6 +717,14 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
+## 讯飞-AI大学堂
+
+- **主页**：https://www.aidaxue.com/
+- **课程地图**：https://www.aidaxue.com/course/courseList
+- **成长学园**：https://www.aidaxue.com/activity/pygrowth
+
+[<img width="1356" alt="image" src="https://github.com/isLinXu/issues/assets/59380685/c57785d8-e955-4af0-8c05-ad12adfe4410">](https://www.aidaxue.com/course/courseList)
+
 ## Mooc
 
 ---
@@ -727,14 +735,76 @@ https://www.nvidia.com/en-us/training/online/
 
 
 
+## 字节-火山引擎
+
+- 开发者社区：https://developer.volcengine.com/
+
+[<img width="1712" alt="image" src="https://github.com/isLinXu/issues/assets/59380685/88985715-ece6-44e9-be90-73bb0264c7a3">](https://developer.volcengine.com/)
+
+## 京东云
+
+- 开发者社区课程：https://developer.jdcloud.com/course/
+
+[<img width="1712" alt="image" src="https://github.com/isLinXu/issues/assets/59380685/42ca1bf8-564d-49fc-80f0-4b8408633ff9">](https://developer.jdcloud.com/course/)
+
+
+## OpenBMB
+
+### OpenBMB大模型公开课
+
+- 主页：https://openbmb.cn/home
+
+- 课程：https://openbmb.cn/community/course
+
+[<img width="1349" alt="image" src="https://github.com/isLinXu/issues/assets/59380685/2f4c918a-b2d9-4903-9327-51cda4c6bc6c">](https://openbmb.cn/home)
+
+## AI四小龙
+
+- 商汤&浦源：
+	- openmmlab：https://openmmlab.com/
+
+| 序号 |                       内容                        |                   链接                    |
+| :---: | :-----------------------------------------------: | :---------------------------------------: |
+|   1   |     OpenXLab**【浦源】**人工智能开源开放体系      |       https://openxlab.org.cn/home        |
+|   2   |       OpenGVLab**【浦视】**通用视觉技术体系       |      https://opengvlab.shlab.org.cn/      |
+|   3   |    OpenDILab**【浦策】**新一代开源决策智能平台    |        https://opendilab.net/home         |
+|   4   |      OpenXDLab**【浦画】**高质量数字内容平台      |       https://openxdlab.org.cn/home       |
+|   5   |       OpenXRLab**【浦实】**扩展现实开源平台       |       https://openxrlab.org.cn/home       |
+|   6   |    OpenDataLab**【浦数】**人工智能开放数据平台    |      https://opendatalab.org.cn/home      |
+|   7   |  OpenComputeLab**【浦算】**人工智能开放计算体系   |    https://opencomputelab.org.cn/home     |
+|   8   |  OpenEGLab**【蒲公英】**人工智能治理开放创新平台  |       http://www.openeglab.org.cn/        |
+|   9   | OpenInnoLab**【浦育】**青少年人工智能开放创新平台 | https://www.openinnolab.org.cn/pjedu/home |
+
+OpenDataLab浦数人工智能开放数据平台、OpenComputeLab浦算人工智能开放计算体系、OpenEGLab蒲公英人工智能治理开放创新平台，以及OpenInnoLab浦育青少年人工智能开放创新平台
+- 旷世天元：https://www.megengine.org.cn/
+- 
+
+
 ## OpenL
 
 ---
 
 - https://openi.org.cn/course/
 
-![](./docs/pic/openl_index.png)
+[![](./docs/pic/openl_index.png)](https://openi.org.cn/course/)
 
+
+
+## 国科大相关
+- 实景课堂-主页：https://openbmb.cn/home
+- 公益学术平台：https://pubscholar.cn/
+
+## 幕课网
+- 主页：https://www.imooc.com/
+
+## 实验楼
+- 课程：http://demo.erdangjiade.com/modals/8/856/demo/courses/index.html
+
+## 蓝桥云课
+- 主页：https://www.lanqiao.cn/
+
+## 学堂在线
+- 主页：https://next.xuetangx.com/
 
 
 
